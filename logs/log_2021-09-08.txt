@@ -1,0 +1,628 @@
+20시 27분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+20시 27분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py 로드 완료
+20시 27분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\sample.py 로드 완료
+20시 27분 / [정보] ======================
+20시 27분 / [정보] < 구동 완료 >
+20시 27분 / [정보] 봇 이름 : 그웬
+20시 27분 / [정보] 봇 아이디 : 885030846069899264
+20시 27분 / [정보] ======================
+20시 32분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+20시 32분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py 로드 완료
+20시 32분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\sample.py 로드 완료
+20시 32분 / [정보] ======================
+20시 32분 / [정보] < 구동 완료 >
+20시 32분 / [정보] 봇 이름 : 그웬
+20시 32분 / [정보] 봇 아이디 : 885030846069899264
+20시 32분 / [정보] ======================
+20시 33분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+20시 33분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py 로드 완료
+20시 33분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\sample.py 로드 완료
+20시 33분 / [정보] ======================
+20시 33분 / [정보] < 구동 완료 >
+20시 33분 / [정보] 봇 이름 : 그웬
+20시 33분 / [정보] 봇 아이디 : 885030846069899264
+20시 33분 / [정보] ======================
+20시 33분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !
+20시 37분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+20시 37분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py 로드 완료
+20시 37분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\sample.py 로드 완료
+20시 37분 / [정보] ======================
+20시 37분 / [정보] < 구동 완료 >
+20시 37분 / [정보] 봇 이름 : 그웬
+20시 37분 / [정보] 봇 아이디 : 885030846069899264
+20시 37분 / [정보] ======================
+20시 38분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !안녕
+20시 38분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !info
+20시 47분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+20시 47분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py 로드 완료
+20시 47분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\sample.py 로드 완료
+20시 47분 / [정보] ======================
+20시 47분 / [정보] < 구동 완료 >
+20시 47분 / [정보] ======================
+20시 49분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 안녕
+20시 49분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 답장
+20시 49분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 칭찬
+20시 50분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 칭찬 나
+20시 50분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬 발사 나 나
+20시 50분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬 발사 너 나
+20시 50분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬 발사
+20시 50분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬 치안
+20시 50분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 발사 너 나
+20시 51분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 말해 ㅇㅇ
+20시 51분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py", line 53, in 말해
+    await ctx.message.delete()  # 유저가 쓴 메시지는 지웁니다.
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\message.py", line 1023, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 248, in request
+    raise Forbidden(r, data)
+discord.errors.Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Downloads\SetaBot-2.3\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+
+
+20시 51분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 말해
+20시 51분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 말해
+20시 51분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 핑
+20시 52분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 탕수육
+20시 52분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py", line 71, in 탕수육
+    result = await util_box.ox(self.bot, window, ctx)
+  File "c:\Users\82105\Downloads\SetaBot-2.3\utils\util_box.py", line 28, in ox
+    await message.clear_reactions()
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\message.py", line 1309, in clear_reactions
+    await self._state.http.clear_reactions(self.channel.id, self.id)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 248, in request
+    raise Forbidden(r, data)
+discord.errors.Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Downloads\SetaBot-2.3\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+
+
+20시 52분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 탕수육
+20시 52분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py", line 71, in 탕수육
+    result = await util_box.ox(self.bot, window, ctx)
+  File "c:\Users\82105\Downloads\SetaBot-2.3\utils\util_box.py", line 25, in ox
+    await message.clear_reactions()
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\message.py", line 1309, in clear_reactions
+    await self._state.http.clear_reactions(self.channel.id, self.id)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 248, in request
+    raise Forbidden(r, data)
+discord.errors.Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Downloads\SetaBot-2.3\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+
+
+20시 53분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 프로필
+20시 54분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+20시 54분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py 로드 완료
+20시 54분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\sample.py 로드 완료
+20시 54분 / [정보] ======================
+20시 54분 / [정보] < 구동 완료 >
+20시 54분 / [정보] ======================
+20시 54분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 탕수육
+20시 55분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py", line 71, in 탕수육
+    result = await util_box.ox(self.bot, window, ctx)
+  File "c:\Users\82105\Downloads\SetaBot-2.3\utils\util_box.py", line 28, in ox
+    await message.clear_reactions()
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\message.py", line 1309, in clear_reactions
+    await self._state.http.clear_reactions(self.channel.id, self.id)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 248, in request
+    raise Forbidden(r, data)
+discord.errors.Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Downloads\SetaBot-2.3\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+
+
+20시 58분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+20시 58분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py 로드 완료
+20시 58분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\sample.py 로드 완료
+20시 58분 / [정보] ======================
+20시 58분 / [정보] < 구동 완료 >
+20시 58분 / [정보] ======================
+20시 58분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 바보
+21시 04분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+21시 04분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py 로드 완료
+21시 04분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\sample.py 로드 완료
+21시 04분 / [정보] ======================
+21시 04분 / [정보] < 구동 완료 >
+21시 04분 / [정보] ======================
+21시 04분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 잡담
+21시 04분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 잡담
+21시 05분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !잡담
+21시 05분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+21시 05분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py 로드 완료
+21시 05분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\sample.py 로드 완료
+21시 05분 / [정보] ======================
+21시 05분 / [정보] < 구동 완료 >
+21시 05분 / [정보] ======================
+21시 06분 / 병신들 <실험 | 하리하루 | 758963978331619331> 그웬아 잡담
+21시 07분 / 병신들 <실험 | 하리하루 | 758963978331619331> 바보
+21시 07분 / 병신들 <실험 | 하리하루 | 758963978331619331> 그웬아 안녕
+21시 12분 / 병신들 <실험 | 송찬형 | 620609712785850398> 주아바보
+21시 13분 / 병신들 <실험 | 송찬형 | 620609712785850398> 바보
+21시 13분 / 병신들 <실험 | 하리하루 | 758963978331619331> 찬형이 바보
+21시 13분 / 병신들 <실험 | 김강냉 | 582041127323041813> 그웬아
+21시 13분 / 병신들 <실험 | 김강냉 | 582041127323041813> 그웬아 사랑해
+21시 14분 / 병신들 <실험 | 하리하루 | 758963978331619331> 그웬아 발사 주황이 수학
+21시 14분 / 병신들 <실험 | 김강냉 | 582041127323041813> ?
+21시 14분 / 병신들 <실험 | 하리하루 | 758963978331619331> 히히발사
+21시 17분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+21시 17분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\example.py 로드 완료
+21시 17분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\sample.py 로드 완료
+21시 17분 / [정보] ======================
+21시 17분 / [정보] < 구동 완료 >
+21시 17분 / [정보] ======================
+21시 17분 / 병신들 <실험 | 하리하루 | 758963978331619331> 찬형이 바보
+21시 17분 / 병신들 <실험 | 하리하루 | 758963978331619331> 음 바보
+21시 18분 / 병신들 <실험 | 김강냉 | 582041127323041813> 그웬아  박주아  애미
+21시 18분 / 병신들 <실험 | 김강냉 | 582041127323041813> 이새기
+21시 18분 / 병신들 <실험 | 김강냉 | 582041127323041813> 내말씹음
+21시 18분 / 병신들 <실험 | 하리하루 | 758963978331619331> 그딴거 없다
+21시 18분 / 병신들 <실험 | 하리하루 | 758963978331619331> 그웬아 안녕
+21시 18분 / 병신들 <실험 | 하리하루 | 758963978331619331> !안녕
+21시 18분 / 병신들 <실험 | 하리하루 | 758963978331619331> 일케 해도 됨
+21시 18분 / 병신들 <실험 | 김강냉 | 582041127323041813> 그웬아  헤으응
+21시 18분 / 병신들 <실험 | 하리하루 | 758963978331619331> 그웬아 헤으응
+21시 18분 / 병신들 <실험 | 하리하루 | 758963978331619331> 너말은 왜 씹냐
+21시 18분 / 병신들 <실험 | 하리하루 | 758963978331619331> ㅋㅋㅋㅋㅋㅋㅋ
+21시 18분 / 병신들 <실험 | 김강냉 | 582041127323041813> ㄹㅇㅋㅋ
+21시 19분 / 병신들 <실험 | 하리하루 | 758963978331619331> !잡담
+21시 25분 / 병신들 <실험 | 장선효 | 534534395118485506> 아지르도 만들어 줘요
+21시 27분 / 병신들 <실험 | Triaina | 496627750858260480> 박주아
+21시 27분 / 병신들 <실험 | Triaina | 496627750858260480> 씹년아 다시 온다메
+21시 27분 / 병신들 <실험 | Triaina | 496627750858260480> 이 ㅈㄹ 하고있네
+21시 37분 / 병신들 <실험 | 김강냉 | 582041127323041813> 강냉이#31961
+22시 50분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\CommandBot.py 로드 완료
+22시 50분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+22시 50분 / [정보] ======================
+22시 50분 / [정보] < 구동 완료 >
+22시 50분 / [정보] ======================
+22시 50분 / 병신들 <실험 | 하리하루 | 758963978331619331> 그웬아 가위바위보
+22시 50분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Downloads\SetaBot-2.3\cogs\CommandBot.py", line 39, in 가위바위보
+    await ctx.message.clear_reactions()
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\message.py", line 1309, in clear_reactions
+    await self._state.http.clear_reactions(self.channel.id, self.id)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 248, in request
+    raise Forbidden(r, data)
+discord.errors.Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Downloads\SetaBot-2.3\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+
+
+22시 50분 / 병신들 <실험 | 하리하루 | 758963978331619331> 애미
+22시 52분 / 병신들 <실험 | 하리하루 | 758963978331619331> !가위바위보
+22시 52분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Downloads\SetaBot-2.3\cogs\CommandBot.py", line 36, in 가위바위보
+    await ctx.message.clear_reactions()
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\message.py", line 1309, in clear_reactions
+    await self._state.http.clear_reactions(self.channel.id, self.id)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 248, in request
+    raise Forbidden(r, data)
+discord.errors.Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Downloads\SetaBot-2.3\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+
+
+22시 56분 / 병신들 <실험 | 김강냉 | 582041127323041813> !가위바위보
+22시 57분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Downloads\SetaBot-2.3\cogs\CommandBot.py", line 42, in 가위바위보
+    await ctx.message.clear_reactions()
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\message.py", line 1309, in clear_reactions
+    await self._state.http.clear_reactions(self.channel.id, self.id)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 248, in request
+    raise Forbidden(r, data)
+discord.errors.Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Downloads\SetaBot-2.3\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+
+
+22시 57분 / 병신들 <실험 | 김강냉 | 582041127323041813> ?
+22시 57분 / 병신들 <실험 | 김강냉 | 582041127323041813> 시발련이
+22시 57분 / 병신들 <실험 | 김강냉 | 582041127323041813> 아가리딱대
+22시 57분 / 병신들 <실험 | 김강냉 | 582041127323041813> 쒸이벌,,
+22시 57분 / 병신들 <실험 | 김강냉 | 582041127323041813> 그웬아
+22시 57분 / 병신들 <실험 | 김강냉 | 582041127323041813> 사랑해
+23시 02분 / 병신들 <실험 | 하리하루 | 758963978331619331> !가위바위보
+23시 02분 / 병신들 <실험 | 하리하루 | 758963978331619331> !가위바위보
+23시 02분 / 병신들 <실험 | 신승민 | 405354618068008970> 뭔ㅈ같은걸
+23시 02분 / 병신들 <실험 | 신승민 | 405354618068008970> 만든거야
+23시 03분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\CommandBot.py 로드 완료
+23시 03분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+23시 03분 / [정보] ======================
+23시 03분 / [정보] < 구동 완료 >
+23시 03분 / [정보] ======================
+23시 03분 / 병신들 <실험 | 박박도도현현 | 453463786075062274> 승민이도 아니고
+23시 03분 / 병신들 <실험 | 박박도도현현 | 453463786075062274> 라고 할뻔~
+23시 03분 / 병신들 <실험 | 하리하루 | 758963978331619331> !가위바위보
+23시 03분 / 병신들 <실험 | 김강냉 | 582041127323041813> !가위바위보
+23시 03분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋ
+23시 03분 / 병신들 <실험 | 김강냉 | 582041127323041813> !가위바위보
+23시 03분 / 병신들 <실험 | 김강냉 | 582041127323041813> 쥬지
+23시 03분 / 병신들 <실험 | 김강냉 | 582041127323041813> ㅋ
+23시 03분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 03분 / 병신들 <실험 | 김강냉 | 582041127323041813> !가위바위보
+23시 04분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> !가위바우비ㅗ
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> !가위바섹스
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> !섹스
+23시 04분 / 병신들 <실험 | 신승민 | 405354618068008970> ?
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> !섹스하자
+23시 04분 / 병신들 <실험 | 하리하루 | 758963978331619331> 주황이 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> ?
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 박주아병신
+23시 04분 / 병신들 <실험 | 장선효 | 534534395118485506> 주아바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 왜
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 안해
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 주아 ㅂ ㅕㅇ신
+23시 04분 / 병신들 <실험 | 신승민 | 405354618068008970> :>
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 주아  바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 승민 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 신승민 | 405354618068008970> 이미공공연한 사실이라
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 장선효 | 534534395118485506> 바ㅗ
+23시 04분 / 병신들 <실험 | 장선효 | 534534395118485506> ㅗ
+23시 04분 / 병신들 <실험 | 신승민 | 405354618068008970> 말을안하네
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 장선효 | 534534395118485506> 바보바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> 바보
+23시 04분 / 병신들 <실험 | 신승민 | 405354618068008970> ????
+23시 04분 / 병신들 <실험 | 김강냉 | 582041127323041813> !rank
+23시 04분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 04분 / 병신들 <실험 | 신승민 | 405354618068008970> 미쳤다
+23시 05분 / 병신들 <실험 | 장선효 | 534534395118485506> !rank
+23시 05분 / 병신들 <실험 | 하리하루 | 758963978331619331> !발사 주황이 쥬지
+23시 05분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 05분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 05분 / 병신들 <실험 | 김강냉 | 582041127323041813> ?
+23시 06분 / 병신들 <실험 | 김강냉 | 582041127323041813> !발사  승민이  보지
+23시 06분 / 병신들 <실험 | 신승민 | 405354618068008970> 없잖아
+23시 06분 / 병신들 <실험 | 신승민 | 405354618068008970> ????????????
+23시 06분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 06분 / 병신들 <실험 | 김강냉 | 582041127323041813> !발사 승민이 정액!
+23시 06분 / 병신들 <실험 | 김강냉 | 582041127323041813> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 06분 / 병신들 <실험 | 장선효 | 534534395118485506> !발사 주아 머리카락
+23시 06분 / 병신들 <실험 | 김강냉 | 582041127323041813> !발사 주아얼굴  정액(을)
+23시 06분 / 병신들 <실험 | 하리하루 | 758963978331619331> !발사 주황이 탈모빔
+23시 06분 / 병신들 <실험 | 김강냉 | 582041127323041813> ?
+23시 06분 / 병신들 <실험 | 신승민 | 405354618068008970> 이미
+23시 06분 / 병신들 <실험 | 신승민 | 405354618068008970> 탈모아님>?
+23시 06분 / 병신들 <실험 | 하리하루 | 758963978331619331> 맞는듯
+23시 06분 / 병신들 <실험 | 김강냉 | 582041127323041813> !발사 주아엄마 효도
+23시 06분 / 병신들 <실험 | 하리하루 | 758963978331619331> ㅈㅅ
+23시 06분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 06분 / 병신들 <실험 | 장선효 | 534534395118485506> !발사 아지르 슈리마
+23시 06분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋ
+23시 06분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 07분 / 병신들 <실험 | 김강냉 | 582041127323041813> !발사 갱플랭크 혀어어어업상
+23시 07분 / 병신들 <실험 | 장선효 | 534534395118485506> !발사 코로나확진자 기침
+23시 07분 / 병신들 <실험 | 김강냉 | 582041127323041813> !발사 승민이 엄마 사랑
+23시 07분 / 병신들 <실험 | 하리하루 | 758963978331619331> !말해 말해
+23시 07분 / [정보] 하리하루이(가) '!말해 말해'라고 한 메시지를 삭제했어!
+23시 07분 / 병신들 <실험 | 김강냉 | 582041127323041813> ?
+23시 07분 / 병신들 <실험 | 하리하루 | 758963978331619331> !말해 병신년
+23시 07분 / [정보] 하리하루이(가) '!말해 병신년'라고 한 메시지를 삭제했어!
+23시 07분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해
+23시 07분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 너랑섹스하고싶어
+23시 07분 / [정보] 김강냉이(가) '!말해 너랑섹스하고싶어'라고 한 메시지를 삭제했어!
+23시 07분 / 병신들 <실험 | 김강냉 | 582041127323041813> ^^
+23시 07분 / 병신들 <실험 | 장선효 | 534534395118485506> !말해 주아병신
+23시 07분 / [정보] 장선효이(가) '!말해 주아병신'라고 한 메시지를 삭제했어!
+23시 07분 / 병신들 <실험 | 하리하루 | 758963978331619331> ㅣㅈ랄한다
+23시 07분 / 병신들 <실험 | 김강냉 | 582041127323041813> 하러가자
+23시 07분 / 병신들 <실험 | 김강냉 | 582041127323041813> ^^
+23시 07분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 헤으응,,,,
+23시 07분 / [정보] 김강냉이(가) '!말해 헤으응,,,,'라고 한 메시지를 삭제했어!
+23시 08분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 헤으응 나는 주인님의,,,
+23시 08분 / [정보] 김강냉이(가) '!말해 헤으응 나는 주인님의,,,'라고 한 메시지를 삭제했어!
+23시 08분 / 병신들 <실험 | 장선효 | 534534395118485506> !말해 주황이 머리카락
+23시 08분 / [정보] 장선효이(가) '!말해 주황이 머리카락'라고 한 메시지를 삭제했어!
+23시 08분 / 병신들 <실험 | 김강냉 | 582041127323041813> ?
+23시 08분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 나는 병현이의 머리카락
+23시 08분 / [정보] 김강냉이(가) '!말해 나는 병현이의 머리카락'라고 한 메시지를 삭제했어!
+23시 08분 / 병신들 <실험 | 장선효 | 534534395118485506> !말해 오늘은 내가 삭발하는 미용사!
+23시 08분 / [정보] 장선효이(가) '!말해 오늘은 내가 삭발하는 미용사!'라고 한 메시지를 삭제했어!
+23시 09분 / 병신들 <실험 | 장선효 | 534534395118485506> !발사 코로나
+23시 09분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 박주아병신새끼 박주아병신새끼 박주아병신새끼 박주아병신새끼 박주아병신새끼 박주아병신새끼박주아병신새끼박주아병신새끼ㅍ박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼
+23시 09분 / [정보] 김강냉이(가) '!말해 박주아병신새끼 박주아병신새끼 박주아병신새끼 박주아병신새끼 박주아병신새끼 박주아병신새끼박주아병신새끼박주아병신새끼ㅍ박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼박주아병신새끼'라고 한 메시지를 삭제했어!
+23시 09분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 09분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 09분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋ
+23시 09분 / [정보] 장선효이(가) '!발사 코로나'라고 한 메시지를 삭제했어!
+23시 09분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 09분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해  난 아가 그웬 응애 짱쌔
+23시 09분 / [정보] 김강냉이(가) '!말해  난 아가 그웬 응애 짱쌔'라고 한 메시지를 삭제했어!
+23시 09분 / 병신들 <실험 | 김강냉 | 582041127323041813> ?
+23시 09분 / 병신들 <실험 | 김강냉 | 582041127323041813> 선넘네
+23시 09분 / 병신들 <실험 | 장선효 | 534534395118485506> !말해 아지르는 황제인데 병신이네 ㅋ
+23시 09분 / [정보] 장선효이(가) '!말해 아지르는 황제인데 병신이네 ㅋ'라고 한 메시지를 삭제했어!
+23시 09분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해  승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼
+23시 09분 / [정보] 김강냉이(가) '!말해  승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼'라고 한 메시지를 삭제했어!
+23시 09분 / 병신들 <실험 | 김강냉 | 582041127323041813> 승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼
+23시 09분 / 병신들 <실험 | 김강냉 | 582041127323041813> 승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼
+23시 09분 / 병신들 <실험 | 김강냉 | 582041127323041813> 승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼
+23시 09분 / 병신들 <실험 | 신승민 | 405354618068008970> ?
+23시 09분 / 병신들 <실험 | 김강냉 | 582041127323041813> 승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼승민이병신새끼
+23시 09분 / 병신들 <실험 | 하리하루 | 758963978331619331> !가위바위보
+23시 10분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해  밴하면  엄마없음
+23시 10분 / [정보] 김강냉이(가) '!말해  밴하면  엄마없음'라고 한 메시지를 삭제했어!
+23시 10분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 가위바위보 존나못하네 병신년이 ㅋㅋ
+23시 10분 / [정보] 김강냉이(가) '!말해 가위바위보 존나못하네 병신년이 ㅋㅋ'라고 한 메시지를 삭제했어!
+23시 10분 / 병신들 <실험 | 장선효 | 534534395118485506> !말해 신지드 머리카락 내가 잘라줬어!
+23시 10분 / [정보] 장선효이(가) '!말해 신지드 머리카락 내가 잘라줬어!'라고 한 메시지를 삭제했어!
+23시 10분 / 병신들 <실험 | 하리하루 | 758963978331619331> !말해 니애미
+23시 10분 / [정보] 하리하루이(가) '!말해 니애미'라고 한 메시지를 삭제했어!
+23시 10분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 사랑해
+23시 10분 / [정보] 김강냉이(가) '!말해 사랑해'라고 한 메시지를 삭제했어!
+23시 10분 / 병신들 <실험 | 김강냉 | 582041127323041813> 니애미사랑해
+23시 10분 / 병신들 <실험 | 장선효 | 534534395118485506> !말해 라이즈 헤어스타일도 내가 잘라준거야!
+23시 10분 / [정보] 장선효이(가) '!말해 라이즈 헤어스타일도 내가 잘라준거야!'라고 한 메시지를 삭제했어!
+23시 10분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 니엄마 열명
+23시 10분 / [정보] 김강냉이(가) '!말해 니엄마 열명'라고 한 메시지를 삭제했어!
+23시 10분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 우리엄마 아지르
+23시 10분 / [정보] 김강냉이(가) '!말해 우리엄마 아지르'라고 한 메시지를 삭제했어!
+23시 10분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋ?
+23시 10분 / 병신들 <실험 | 장선효 | 534534395118485506> !말해 ㅇㅈ
+23시 10분 / [정보] 장선효이(가) '!말해 ㅇㅈ'라고 한 메시지를 삭제했어!
+23시 10분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 승민이 엄마 우르곳
+23시 10분 / [정보] 김강냉이(가) '!말해 승민이 엄마 우르곳'라고 한 메시지를 삭제했어!
+23시 10분 / 병신들 <실험 | 신승민 | 405354618068008970> ?
+23시 11분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말햊 ㅅ
+23시 11분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 ㅈㅅ
+23시 11분 / [정보] 김강냉이(가) '!말해 ㅈㅅ'라고 한 메시지를 삭제했어!
+23시 11분 / 병신들 <실험 | 장선효 | 534534395118485506> !말해 이이잉 앗살라말라이쿰
+23시 11분 / [정보] 장선효이(가) '!말해 이이잉 앗살라말라이쿰'라고 한 메시지를 삭제했어!
+23시 11분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 그런 명령어는 많아!
+23시 11분 / [정보] 김강냉이(가) '!말해 그런 명령어는 많아!'라고 한 메시지를 삭제했어!
+23시 11분 / 병신들 <실험 | 신승민 | 405354618068008970> 신주황 어머니 참깨빵위에 순살패티두장껴서 권종빈이먹음
+23시 11분 / [정보] 신승민이(가) '신주황 어머니 참깨빵위에 순살패티두장껴서 권종빈이먹음'라고 한 메시지를 삭제했어!
+23시 11분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 나는 섹스킹
+23시 11분 / [정보] 김강냉이(가) '!말해 나는 섹스킹'라고 한 메시지를 삭제했어!
+23시 11분 / 병신들 <실험 | 김강냉 | 582041127323041813> ?
+23시 11분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 11분 / 병신들 <실험 | 김강냉 | 582041127323041813> 뭐엿지
+23시 11분 / 병신들 <실험 | 장선효 | 534534395118485506> !말해 권종빈이 오늘 배드민턴 치는데 난입했음
+23시 11분 / [정보] 장선효이(가) '!말해 권종빈이 오늘 배드민턴 치는데 난입했음'라고 한 메시지를 삭제했어!
+23시 11분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 승민이 보지
+23시 11분 / [정보] 김강냉이(가) '!말해 승민이 보지'라고 한 메시지를 삭제했어!
+23시 11분 / 병신들 <실험 | 신승민 | 405354618068008970> ?
+23시 11분 / 병신들 <실험 | 신승민 | 405354618068008970> 그웬
+23시 11분 / 병신들 <실험 | 신승민 | 405354618068008970> 아가리
+23시 11분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 승민이 보지에  권종빈  자지가,,,
+23시 11분 / [정보] 김강냉이(가) '!말해 승민이 보지에  권종빈  자지가,,,'라고 한 메시지를 삭제했어!
+23시 11분 / 병신들 <실험 | 신승민 | 405354618068008970> 닫게해봐
+23시 12분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\CommandBot.py 로드 완료
+23시 12분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+23시 12분 / [정보] ======================
+23시 12분 / [정보] < 구동 완료 >
+23시 12분 / [정보] ======================
+23시 12분 / 병신들 <실험 | 하리하루 | 758963978331619331> !말해 히히
+23시 12분 / [정보] 하리하루이(가) '!말해 히히'라고 한 메시지를 삭제했어!
+23시 12분 / 병신들 <실험 | 장선효 | 534534395118485506> !말해 아지르 병신
+23시 12분 / [정보] 장선효이(가) '!말해 아지르 병신'라고 한 메시지를 삭제했어!
+23시 12분 / 병신들 <실험 | 신승민 | 405354618068008970> ?
+23시 12분 / 병신들 <실험 | 신승민 | 405354618068008970> !말
+23시 12분 / 병신들 <실험 | 신승민 | 405354618068008970> !자
+23시 12분 / 병신들 <실험 | 신승민 | 405354618068008970> !지
+23시 13분 / 병신들 <실험 | 하리하루 | 758963978331619331> !말해 지랄
+23시 13분 / [정보] 하리하루이(가) '!말해 지랄'라고 한 메시지를 삭제했어!
+23시 14분 / 병신들 <실험 | 장선효 | 534534395118485506> !말해 랄로
+23시 14분 / [정보] 장선효이(가) '!말해 랄로'라고 한 메시지를 삭제했어!
+23시 15분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해  우왓, 자위중에 장액이.. ㅡㅡ;;
+23시 15분 / [정보] 김강냉이(가) '!말해  우왓, 자위중에 장액이.. ㅡㅡ;;'라고 한 메시지를 삭제했어!
+23시 15분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 동성애자는 아닙니다만, 항문자위를 즐기는 편인데
+절정 직전에 장액이 쏟아져 나왔네요. 신호도 없이..
+더욱이, 계란탕의 계란같은 희고 누런 건더기들이.. ㅡㅅㅡa; 몽글몽글.
+아무 맛 없이 미끌거릴 뿐인 걸 보면 분명 배설물은 아닙니다만.. 
+뭐어, 각설. 벌써 해가 중천입니다. 식사는 하셨는지요.
+23시 15분 / [정보] 김강냉이(가) '!말해 동성애자는 아닙니다만, 항문자위를 즐기는 편인데
+절정 직전에 장액이 쏟아져 나왔네요. 신호도 없이..
+더욱이, 계란탕의 계란같은 희고 누런 건더기들이.. ㅡㅅㅡa; 몽글몽글.
+아무 맛 없이 미끌거릴 뿐인 걸 보면 분명 배설물은 아닙니다만.. 
+뭐어, 각설. 벌써 해가 중천입니다. 식사는 하셨는지요.'라고 한 메시지를 삭제했어!
+23시 16분 / 병신들 <실험 | 신승민 | 405354618068008970> ?
+23시 16분 / 병신들 <실험 | 하리하루 | 758963978331619331> 지!!랄
+23시 16분 / 병신들 <실험 | 김강냉 | 582041127323041813> d
+23시 16분 / 병신들 <실험 | 하리하루 | 758963978331619331> 바보
+23시 16분 / 병신들 <실험 | 김강냉 | 582041127323041813> 언제봐조
+23시 16분 / 병신들 <실험 | 김강냉 | 582041127323041813> 존나웃기네
+23시 16분 / 병신들 <실험 | 김강냉 | 582041127323041813> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 16분 / 병신들 <실험 | 김강냉 | 582041127323041813> 우왓,,
+23시 16분 / 병신들 <실험 | 김강냉 | 582041127323041813> 자위중에 장액이,,
+23시 16분 / 병신들 <실험 | 신승민 | 405354618068008970> 영구제명좀
+23시 17분 / 병신들 <실험 | 김강냉 | 582041127323041813> !말해 허경영의 33정책!
+23시 17분 / [정보] 김강냉이(가) '!말해 허경영의 33정책!'라고 한 메시지를 삭제했어!
+23시 24분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\CommandBot.py 로드 완료
+23시 24분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+23시 24분 / [정보] ======================
+23시 24분 / [정보] < 구동 완료 >
+23시 24분 / [정보] ======================
+23시 24분 / 병신들 <실험 | 하리하루 | 758963978331619331> !전적 시리하루
+23시 24분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Downloads\SetaBot-2.3\cogs\CommandBot.py", line 114, in 전적
+    embed = discord.Embed(title=message_content + " 님의 플레이어 정보", description="", color=0x62c1cc)
+NameError: name 'message_content' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Downloads\SetaBot-2.3\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NameError: name 'message_content' is not defined
+
+
+
+23시 25분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\CommandBot.py 로드 완료
+23시 25분 / [정보] c:\Users\82105\Downloads\SetaBot-2.3\cogs\event.py 로드 완료
+23시 25분 / [정보] ======================
+23시 25분 / [정보] < 구동 완료 >
+23시 25분 / [정보] ======================
+23시 25분 / 병신들 <실험 | 하리하루 | 758963978331619331> !전적 시리하루
+23시 25분 / 병신들 <실험 | 김강냉 | 582041127323041813> !전적   원딜멘탈깨고함
+23시 25분 / 병신들 <실험 | 장선효 | 534534395118485506> !전적 hamnet
+23시 25분 / 병신들 <실험 | 김강냉 | 582041127323041813> ?
+23시 25분 / 병신들 <실험 | 하리하루 | 758963978331619331> !전적 Archetto
+23시 25분 / 병신들 <실험 | 신승민 | 405354618068008970> !전적 내가이구역원딜
+23시 26분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 26분 / 병신들 <실험 | 김강냉 | 582041127323041813> 우우ㅜㄱ,,,
+23시 26분 / 병신들 <실험 | 신승민 | 405354618068008970> ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+23시 29분 / 병신들 <실험 | 하리하루 | 758963978331619331> !전적
+23시 29분 / 병신들 <실험 | 하리하루 | 758963978331619331> !전적 ㅇ
+23시 29분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Downloads\SetaBot-2.3\cogs\CommandBot.py", line 94, in 전적
+    img = soup.find("div", attrs={"class":"SummonerRatingMedium"}).find("img").get('src')
+AttributeError: 'NoneType' object has no attribute 'find'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Downloads\SetaBot-2.3\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'find'
+
+
+
+23시 30분 / 병신들 <실험 | 김강냉 | 582041127323041813> !전적 야스킹
+23시 33분 / 병신들 <실험 | 하리하루 | 758963978331619331> !전적 칼날부리서리범
+23시 33분 / 병신들 <실험 | ping | 669911401183182848> 생각보다
+23시 33분 / 병신들 <실험 | ping | 669911401183182848> 빨리만들었노
+23시 38분 / 병신들 <실험 | Triaina | 496627750858260480> !전적 Tr1aina
+23시 38분 / 병신들 <실험 | Triaina | 496627750858260480> 오
+23시 38분 / 병신들 <실험 | Triaina | 496627750858260480> 박주아 다시 돌아오지 않을걸
+23시 38분 / 병신들 <실험 | Triaina | 496627750858260480> 용서하지 않으마
+23시 38분 / 병신들 <실험 | Triaina | 496627750858260480> 씹새야
+23시 54분 / 병신들 <📩채팅창 | Triaina | 496627750858260480> https://youtu.be/SgrBMreVPD8
+23시 54분 / [정보] Triaina이(가) 'https://youtu.be/SgrBMreVPD8'라고 한 메시지를 'https://youtu.be/SgrBMreVPD8'로 수정했어!
