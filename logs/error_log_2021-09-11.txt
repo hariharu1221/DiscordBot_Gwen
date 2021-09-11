@@ -1,0 +1,24 @@
+10시 37분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 184, in 챔피언
+    luneType = soup.find_all("div", attrs="perk-page__item perk-page__item--mark", limit=2).find("img").get("src")
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\bs4\element.py", line 2253, in __getattr__
+    raise AttributeError(
+AttributeError: ResultSet object has no attribute 'find'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: ResultSet object has no attribute 'find'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+
+
+

@@ -27,6 +27,54 @@ class normalCommand(commands.Cog):
         elif act == 4:    await ctx.send(f'이곳에선 다들 투지가 넘친다니까. 그러니까 나도 최선을 다해야겠지.')
         else:             await ctx.send(f'천 조각은 아름다운 모습으로 변할 수 있어. 그게 바로 내가 하는 일이지.')
 
+    @commands.cooldown(1, 10)
+    @commands.command()
+    async def 그웬식(self, ctx, arg1):
+            if arg1 == "가위바위보":
+                window = await ctx.send('가위바위보??')
+            else:
+                return
+            result = await util_box.wait_for_reaction(self.bot, ctx.message, ['✋', '✌️', '✊'], 10, ctx)
+            if not result:
+                await ctx.message.clear_reactions()
+                return
+            elif result.emoji == '✋':
+                await ctx.message.clear_reactions()
+                result = 1
+            elif result.emoji == '✌️':
+                await ctx.message.clear_reactions()
+                result = 2
+            else:
+                await ctx.message.clear_reactions()
+                result = 3
+            rand = random.randrange(1,6)
+            if rand == 2 or rand > 3:
+                st = f'{ctx.author.name}, 넌 졌어!'
+                rt = '🦴 vs ✌️'
+            elif result == 1:
+                st = f'{ctx.author.name}, 넌 비겼어!' if rand == 1 else f'{ctx.author.name}, 넌 이겼어' if rand == 3 else f'{ctx.author.name}, 넌 졌어'
+                rt = '✋ vs ✋' if rand == 1 else '✋ vs ✊' if rand == 3 else '✋ vs ✌️'
+            elif result == 2:
+                st = f'{ctx.author.name}, 넌 비겼어!' if rand == 2 else f'{ctx.author.name}, 넌 이겼어' if rand == 1 else f'{ctx.author.name}, 넌 졌어'
+                rt = '✌️ vs ✌️' if rand == 2 else '✌️ vs ✋' if rand == 1 else '✌️ vs ✊'
+            elif result == 3:
+                st = f'{ctx.author.name}, 넌 비겼어!' if rand == 3 else f'{ctx.author.name}, 넌 이겼어' if rand == 2 else f'{ctx.author.name}, 넌 졌어'
+                rt = '✊ vs ✊' if rand == 3 else '✊ vs ✌️' if rand == 2 else '✊ vs ✋'
+            embed = discord.Embed(title='가위바위보', description='음....', colour=0x1DDB16)
+            embed.add_field(name='결과', value=st, inline=True)
+            embed.add_field(name='상태', value=rt, inline=True)
+            if rand == 2 or rand > 3:   
+                r = random.randrange(1,5)
+                if r== 1:   embed.set_footer(text="`너무 재밌어!`")
+                if r== 2:   embed.set_footer(text="`재단사 필요해?`")
+                if r== 3:   embed.set_footer(text="`하, 이 상쾌하고도 신선한 공기!`")
+                if r== 4:   embed.set_footer(text="`어, 이런. 어쩌지?`")
+                if r== 5:   embed.set_footer(text="`하! 바위가 가위를 이긴다고?`")
+            else: embed.set_footer(text="가위바위보")
+            await window.delete()
+            await ctx.send(embed=embed)
+
+    @commands.cooldown(1, 10)
     @commands.command()
     async def 가위바위보(self, ctx):
         window = await ctx.send('가위바위보??')
@@ -58,20 +106,9 @@ class normalCommand(commands.Cog):
         embed = discord.Embed(title='가위바위보', description='음....', colour=0x1DDB16)
         embed.add_field(name='결과', value=st, inline=True)
         embed.add_field(name='상태', value=rt, inline=True)
-        embed.set_footer(text="히히네이스")
+        embed.set_footer(text="가위바위보")
+        await window.delete()
         await ctx.send(embed=embed)
-        
-
-    @commands.command()
-    async def 답장(self, ctx):
-        await ctx.send(content='자 답장이야!', reference=ctx.message)
-
-    @commands.command()
-    async def 칭찬(self, ctx, arg1=None):
-        if arg1 is None:
-            return await ctx.send('뭘 칭찬해야 해?')
-
-        await ctx.send(f'`{arg1}`을(를) 칭찬할게!')
 
     @commands.command()
     async def 발사(self, ctx, arg1=None, arg2=None):
@@ -83,34 +120,16 @@ class normalCommand(commands.Cog):
     # 따라말하는
     @commands.command()
     async def 말해(self, ctx, *, content=None):
-        if content is None:  # 그냥 '!말해' 만 말했다면
-            return await ctx.send('뭘 말해요?')  # ctx.send('내용')은 봇이 말하는 함수
+        if content is None:
+            return await ctx.send('뭘 말해?')
 
         await ctx.message.delete()  # 유저가 쓴 메시지는 지웁니다.
-        await ctx.send(f'{ctx.author.name}님이 전해달래요 : ' + content)
-
-    @commands.cooldown(1, 5)
-    @commands.command()
-    async def 쿨타임(self, ctx):
-        await ctx.send('와아아아아아아')
+        await ctx.send(f'{ctx.author.name}님이 전해달래! : ' + content)
 
     # 핑
     @commands.command()
     async def 핑(self, ctx):
         await ctx.send(f'`지연 시간 : {int(self.bot.latency * 1000)}ms`')
-
-    # OX
-    @commands.command()
-    async def 탕수육(self, ctx):
-        window = await ctx.send('찍먹 좋아해?')
-        result = await util_box.ox(self.bot, window, ctx)
-
-        if result == 0:  # X를 눌렀을 때
-            await ctx.send('그렇구나아...')
-        elif result == 1:  # O를 눌렀을 때
-            await ctx.send('와아 나도 좋아해')
-        else:  # 그 외(시간 초과)
-            await ctx.send('대답 안 해 주는 거야...?')
 
     #embed
     @commands.command()

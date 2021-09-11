@@ -1,0 +1,192 @@
+00시 37분 / 병신들 <🧬정신나간-호재 | 김강냉 | 582041127323041813> <@!397036116676575233>
+00시 37분 / 병신들 <🧬정신나간-호재 | 김강냉 | 582041127323041813> 아직도
+00시 37분 / 병신들 <🧬정신나간-호재 | 김강냉 | 582041127323041813> 자냐
+00시 55분 / [정보] ======================
+00시 55분 / [정보] < 구동 완료 >
+00시 55분 / [정보] ======================
+09시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+09시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+09시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+09시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+09시 59분 / [정보] ======================
+09시 59분 / [정보] < 구동 완료 >
+09시 59분 / [정보] ======================
+10시 18분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+10시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+10시 18분 / [정보] 'AdminCommand' 다시 불러옴
+10시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+10시 18분 / [정보] 'event' 다시 불러옴
+10시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+10시 18분 / [정보] 'NormalCommandBot' 다시 불러옴
+10시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+10시 18분 / [정보] 'SearchCommand' 다시 불러옴
+10시 18분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼ㄹ
+10시 18분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+10시 19분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+10시 19분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+10시 19분 / [정보] 'AdminCommand' 다시 불러옴
+10시 19분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+10시 19분 / [정보] 'event' 다시 불러옴
+10시 19분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+10시 19분 / [정보] 'NormalCommandBot' 다시 불러옴
+10시 19분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+10시 19분 / [정보] 'SearchCommand' 다시 불러옴
+10시 19분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+10시 19분 / 병신들 <📩채팅창 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 케넨도 너프네
+10시 20분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+10시 20분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+10시 20분 / [정보] 'AdminCommand' 다시 불러옴
+10시 20분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+10시 20분 / [정보] 'event' 다시 불러옴
+10시 20분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+10시 20분 / [정보] 'NormalCommandBot' 다시 불러옴
+10시 20분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+10시 20분 / [정보] 'SearchCommand' 다시 불러옴
+10시 20분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+10시 21분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+10시 21분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+10시 21분 / [정보] 'AdminCommand' 다시 불러옴
+10시 21분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+10시 21분 / [정보] 'event' 다시 불러옴
+10시 21분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+10시 21분 / [정보] 'NormalCommandBot' 다시 불러옴
+10시 21분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+10시 21분 / [정보] 'SearchCommand' 다시 불러옴
+10시 21분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+10시 22분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+10시 24분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+10시 24분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+10시 24분 / [정보] 'AdminCommand' 다시 불러옴
+10시 24분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+10시 24분 / [정보] 'event' 다시 불러옴
+10시 24분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+10시 24분 / [정보] 'NormalCommandBot' 다시 불러옴
+10시 24분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+10시 24분 / [정보] 'SearchCommand' 다시 불러옴
+10시 24분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+10시 24분 / 병신들 <실험 | MURYAN | 397036116676575233> 아
+10시 24분 / 병신들 <실험 | MURYAN | 397036116676575233> 개졸랴
+10시 24분 / 병신들 <실험 | MURYAN | 397036116676575233> !챔피언 카이사
+10시 24분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+10시 25분 / 병신들 <실험 | 하리하루 | 758963978331619331> 아직
+10시 25분 / 병신들 <실험 | 하리하루 | 758963978331619331> 안만들었습니다 ^^7
+10시 25분 / 병신들 <실험 | MURYAN | 397036116676575233> 승률도낮고
+10시 25분 / 병신들 <실험 | MURYAN | 397036116676575233> 티어도닞네
+10시 25분 / 병신들 <실험 | MURYAN | 397036116676575233> 카이사 쓰레기챔
+10시 25분 / 병신들 <실험 | 하리하루 | 758963978331619331> 아래는
+10시 25분 / 병신들 <실험 | 하리하루 | 758963978331619331> 안보임?
+10시 25분 / 병신들 <실험 | 하리하루 | 758963978331619331> 승률 픽률 티어
+10시 25분 / 병신들 <실험 | 하리하루 | 758963978331619331> 다낮은
+10시 25분 / 병신들 <실험 | 하리하루 | 758963978331619331> 아칼리하는건 어떤가요
+10시 25분 / 병신들 <실험 | 하리하루 | 758963978331619331> 요즘 아칼리로는
+10시 25분 / 병신들 <실험 | 하리하루 | 758963978331619331> 캐리를 못하겠더라
+10시 26분 / 병신들 <실험 | 하리하루 | 758963978331619331> 히히
+10시 26분 / 병신들 <실험 | 하리하루 | 758963978331619331> 아칼리
+10시 26분 / 병신들 <실험 | 하리하루 | 758963978331619331> 버프좀
+10시 27분 / 병신들 <실험 | 하리하루 | 758963978331619331> !그웬 DM
+10시 27분 / 병신들 <실험 | 하리하루 | 758963978331619331> !DM
+10시 27분 / 병신들 <실험 | 하리하루 | 758963978331619331> !DM
+10시 34분 / 병신들 <📩채팅창 | 붕어 | 487949939566182400> ㅅㅂ
+10시 34분 / 병신들 <📩채팅창 | 붕어 | 487949939566182400> 저게머야
+10시 35분 / 병신들 <📩채팅창 | 붕어 | 487949939566182400> 4티어에 박힐듯한
+10시 35분 / 병신들 <📩채팅창 | 붕어 | 487949939566182400> 느낌이
+10시 37분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+10시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+10시 37분 / [정보] 'AdminCommand' 다시 불러옴
+10시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+10시 37분 / [정보] 'event' 다시 불러옴
+10시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+10시 37분 / [정보] 'NormalCommandBot' 다시 불러옴
+10시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+10시 37분 / [정보] 'SearchCommand' 다시 불러옴
+10시 37분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+10시 37분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 184, in 챔피언
+    luneType = soup.find_all("div", attrs="perk-page__item perk-page__item--mark", limit=2).find("img").get("src")
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\bs4\element.py", line 2253, in __getattr__
+    raise AttributeError(
+AttributeError: ResultSet object has no attribute 'find'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: ResultSet object has no attribute 'find'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+
+
+
+10시 41분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+10시 41분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+10시 41분 / [정보] 'AdminCommand' 다시 불러옴
+10시 41분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+10시 41분 / [정보] 'event' 다시 불러옴
+10시 41분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+10시 41분 / [정보] 'NormalCommandBot' 다시 불러옴
+10시 41분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+10시 41분 / [정보] 'SearchCommand' 다시 불러옴
+10시 41분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+10시 46분 / 병신들 <실험 | MURYAN | 397036116676575233> 귀만
+10시 46분 / 병신들 <실험 | MURYAN | 397036116676575233> 안들리는게아니라
+10시 46분 / 병신들 <실험 | MURYAN | 397036116676575233> 눈도안보여요
+10시 46분 / 병신들 <실험 | MURYAN | 397036116676575233> 히히
+10시 52분 / 병신들 <실험 | 하리하루 | 758963978331619331> ???????
+10시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+10시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+10시 56분 / [정보] 'AdminCommand' 다시 불러옴
+10시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+10시 56분 / [정보] 'event' 다시 불러옴
+10시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+10시 56분 / [정보] 'NormalCommandBot' 다시 불러옴
+10시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+10시 56분 / [정보] 'SearchCommand' 다시 불러옴
+10시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+10시 56분 / 병신들 <실험 | MURYAN | 397036116676575233> !챔피언 징크스
+10시 58분 / 병신들 <실험 | 하리하루 | 758963978331619331> !핑
+10시 59분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+10시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+10시 59분 / [정보] 'AdminCommand' 다시 불러옴
+10시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+10시 59분 / [정보] 'event' 다시 불러옴
+10시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+10시 59분 / [정보] 'NormalCommandBot' 다시 불러옴
+10시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+10시 59분 / [정보] 'SearchCommand' 다시 불러옴
+10시 59분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+11시 04분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+11시 04분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+11시 04분 / [정보] 'AdminCommand' 다시 불러옴
+11시 04분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+11시 04분 / [정보] 'event' 다시 불러옴
+11시 04분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+11시 04분 / [정보] 'NormalCommandBot' 다시 불러옴
+11시 04분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+11시 04분 / [정보] 'SearchCommand' 다시 불러옴
+11시 04분 / 병신들 <실험 | 하리하루 | 758963978331619331> !그웬식 가위바위보
+11시 06분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> ㅋㅋㅋ
+11시 07분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+11시 07분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 주작
+11시 08분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+11시 08분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+11시 08분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+11시 08분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 흠 주작은 아니네
+11시 14분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+11시 14분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> dㅗ
+11시 15분 / [정보] 봇서버 서버에서 쫓겨났어...
+11시 15분 / [정보] 봇서버 서버에 들어갔어!
+11시 15분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !가위바위보
+11시 15분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !전적 시리하루
+11시 15분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !챔피언 아칼리
+11시 16분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 잡담
+11시 16분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 그웬아 안녕
+11시 16분 / 병신들 <공지 | 하리하루 | 758963978331619331> 그웬 봇 추가: https://discord.com/api/oauth2/authorize?client_id=885030846069899264&permissions=137442552896&scope=bot
+11시 17분 / [정보] 하리하루이(가) '그웬 봇 추가: https://discord.com/api/oauth2/authorize?client_id=885030846069899264&permissions=137442552896&scope=bot' 메시지를 '그웬 봇 추가: https://discord.com/api/oauth2/authorize?client_id=885030846069899264&permissions=137442552896&scope=bot
+#미완성' 로 수정

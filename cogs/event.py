@@ -1,19 +1,19 @@
-'''
-    <event.py>
-    이벤트 예시들이 모여있어요. 마음껏 수정해 보세요!
-'''
-
 # 필수 임포트
 from discord.ext import commands
 import discord
 import os
 from utils import logger
 
+# 부가 임포트
+from utils import util_box
+import random
+random.random()
+
 
 class EventCog(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
-
+    
     # 접두사에 관계없이 누군가가 메시지를 올렸을 때 여기가 실행될 거야
     @commands.Cog.listener()
     async def on_message(self, message):
@@ -24,6 +24,7 @@ class EventCog(commands.Cog):
 
         if message.content.endswith("바보"):
             await message.channel.send('바보')  # 바보 아니라고 답변
+
 
     # 누가 서버에 들어오면 여기가 실행될 거야
     @commands.Cog.listener()
@@ -50,14 +51,14 @@ class EventCog(commands.Cog):
     async def on_message_delete(self, message):
         if message.author.bot:
             return
-        logger.info(f"{message.author.name}이(가) '{message.content}'라고 한 메시지를 삭제했어!")
+        logger.info(f"{message.author.name}이(가) '{message.content}' 메시지를 삭제")
 
     # 누군가가 메시지를 수정하면 여기가 실행될 거야 before와 after 모두 message야.
     @commands.Cog.listener()
     async def on_message_edit(self, before, after):
         if before.author.bot:
             return
-        logger.info(f"{before.author.name}이(가) '{before.content}'라고 한 메시지를 '{after.content}'로 수정했어!")
+        logger.info(f"{before.author.name}이(가) '{before.content}' 메시지를 '{after.content}' 로 수정")
 
     # 오류 발생 시 여기가 실행될 거야
     @commands.Cog.listener()
@@ -74,7 +75,7 @@ class EventCog(commands.Cog):
         elif isinstance(error, commands.CommandOnCooldown):  # 명령어 쿨타임이 다 차지 않은 경우
             return await ctx.send(
                 f'이 명령어는 {error.cooldown.rate}번 쓰면 {error.cooldown.per}초의 쿨타임이 생겨!'
-                f'```cs\n{int(error.retry_after)}초 후에 다시 시도해 줘!```')
+                f'```cs\n{int(error.retry_after)}초 후에 다시 시도해!```')
 
         await ctx.send(f'오류가 발생했어...\n`{str(error)}`')
         logger.err(error)
