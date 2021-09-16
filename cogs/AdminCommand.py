@@ -20,13 +20,13 @@ class adminCommand(commands.Cog):
                 '관리자 명령어'
                 '\n`사용불가`')
 
-        w = await ctx.send("```모듈을 다시 불러오는 중...```")
+        w = await ctx.send("``나갔다 올게~``")
         cog_list = [i[:-3] for i in os.listdir('cogs') if i.endswith('.py') and i != '__init__.py']
         for i in cog_list:
             self.bot.reload_extension(f"cogs.{i}")
-            logger.info(f"'{i}' 다시 불러옴")
+            logger.info(f"'{i}' reload complete")
 
-        await w.edit(content="```cs\n'불러오기 성공'```")
+        await w.edit(content="``다시 왔어!``")
 
     @commands.command()
     async def exec(self, ctx, *args):

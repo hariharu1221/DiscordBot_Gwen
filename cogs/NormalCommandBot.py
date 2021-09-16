@@ -113,15 +113,15 @@ class normalCommand(commands.Cog):
     @commands.command()
     async def 발사(self, ctx, arg1=None, arg2=None):
         if arg1 is None or arg2 is None:
-            return await ctx.send('뭘 누구한테 발사해야 해?')
+            return await ctx.send('히히 발사!')
 
-        await ctx.send(f'`{arg1}`에 `{arg2}`를 발사! 퍼퍼벙')
+        await ctx.send(f'`{arg1}`에 `{arg2}`를 발사! 히히')
 
     # 따라말하는
     @commands.command()
-    async def 말해(self, ctx, *, content=None):
+    async def 말해줘(self, ctx, *, content=None):
         if content is None:
-            return await ctx.send('뭘 말해?')
+            return await ctx.send('말했어!')
 
         await ctx.message.delete()  # 유저가 쓴 메시지는 지웁니다.
         await ctx.send(f'{ctx.author.name}님이 전해달래! : ' + content)

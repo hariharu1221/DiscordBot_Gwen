@@ -99,7 +99,7 @@ champion = {
     "우르곳":"urgot",
     "워윅":"warwick",
     "유미":"yuumi",
-    "이렐리아":"lrelia",
+    "이렐리아":"irelia",
     "이블린":"evelynn",
     "이즈리얼":"ezreal",
     "일라오이":"illaoi",

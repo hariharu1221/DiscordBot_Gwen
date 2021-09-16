@@ -190,3 +190,2170 @@ discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Att
 11시 16분 / 병신들 <공지 | 하리하루 | 758963978331619331> 그웬 봇 추가: https://discord.com/api/oauth2/authorize?client_id=885030846069899264&permissions=137442552896&scope=bot
 11시 17분 / [정보] 하리하루이(가) '그웬 봇 추가: https://discord.com/api/oauth2/authorize?client_id=885030846069899264&permissions=137442552896&scope=bot' 메시지를 '그웬 봇 추가: https://discord.com/api/oauth2/authorize?client_id=885030846069899264&permissions=137442552896&scope=bot
 #미완성' 로 수정
+11시 25분 / [정보] 하리하루이(가) '그웬 봇 추가: https://discord.com/api/oauth2/authorize?client_id=885030846069899264&permissions=137442552896&scope=bot
+#미완성' 메시지를 '그웬 봇 추가: https://discord.com/api/oauth2/authorize?client_id=885030846069899264&permissions=137442552896&scope=bot
+
+#미완성' 로 수정
+11시 26분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 진짜
+11시 26분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> eq안돌려주나?
+11시 41분 / 병신들 <📩채팅창 | 알 수 없음 | 449764097601437702> 뽀삐가 버프를 먹었다고?
+11시 41분 / 병신들 <📩채팅창 | 알 수 없음 | 449764097601437702> 쉴드 쿨 버프라고?
+11시 43분 / 병신들 <📩채팅창 | 알 수 없음 | 449764097601437702> 이거 이거 또 1티어 가는 건 아닌지 몰라
+11시 53분 / 병신들 <📩채팅창 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> <@!449764097601437702> 오 전설의 건우
+11시 54분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+11시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+11시 54분 / [정보] 'AdminCommand' 다시 불러옴
+11시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+11시 54분 / [정보] 'event' 다시 불러옴
+11시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+11시 54분 / [정보] 'NormalCommandBot' 다시 불러옴
+11시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+11시 54분 / [정보] 'SearchCommand' 다시 불러옴
+11시 54분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+11시 54분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 232, in 패치
+    await ctx.send(embed=embed)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.thumbnail.url: Scheme "http:https" is not supported. Scheme must be one of ('http', 'https').
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.thumbnail.url: Scheme "http:https" is not supported. Scheme must be one of ('http', 'https').
+
+
+
+11시 54분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+11시 55분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+11시 55분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+11시 55분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+11시 55분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+11시 55분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+11시 55분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+11시 56분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+11시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+11시 56분 / [정보] 'AdminCommand' 다시 불러옴
+11시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+11시 56분 / [정보] 'event' 다시 불러옴
+11시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+11시 56분 / [정보] 'NormalCommandBot' 다시 불러옴
+11시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+11시 56분 / [정보] 'SearchCommand' 다시 불러옴
+11시 56분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+11시 57분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+11시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+11시 57분 / [정보] 'AdminCommand' 다시 불러옴
+11시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+11시 57분 / [정보] 'event' 다시 불러옴
+11시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+11시 57분 / [정보] 'NormalCommandBot' 다시 불러옴
+11시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+11시 57분 / [정보] 'SearchCommand' 다시 불러옴
+11시 57분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+11시 57분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 227, in 패치
+    logger.msg(len(patch_list))  # 메시지를 기록
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 55, in msg
+    if message.content == '':
+AttributeError: 'int' object has no attribute 'content'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'int' object has no attribute 'content'
+
+
+
+11시 58분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+11시 58분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 227, in 패치
+    logger.msg(len(patch_list))  # 메시지를 기록
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 55, in msg
+    if message.content == '':
+AttributeError: 'int' object has no attribute 'content'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'int' object has no attribute 'content'
+
+
+
+11시 58분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+11시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+11시 58분 / [정보] 'AdminCommand' 다시 불러옴
+11시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+11시 58분 / [정보] 'event' 다시 불러옴
+11시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+11시 58분 / [정보] 'NormalCommandBot' 다시 불러옴
+11시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+11시 58분 / [정보] 'SearchCommand' 다시 불러옴
+11시 58분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+11시 58분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 227, in 패치
+    logger.msg(len(patch_list))  # 메시지를 기록
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 55, in msg
+    if message.content == '':
+AttributeError: 'int' object has no attribute 'content'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'int' object has no attribute 'content'
+
+
+
+11시 58분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+11시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+11시 58분 / [정보] 'AdminCommand' 다시 불러옴
+11시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+11시 58분 / [정보] 'event' 다시 불러옴
+11시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+11시 58분 / [정보] 'NormalCommandBot' 다시 불러옴
+11시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+11시 58분 / [정보] 'SearchCommand' 다시 불러옴
+11시 58분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+11시 59분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+11시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+11시 59분 / [정보] 'AdminCommand' 다시 불러옴
+11시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+11시 59분 / [정보] 'event' 다시 불러옴
+11시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+11시 59분 / [정보] 'NormalCommandBot' 다시 불러옴
+11시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+11시 59분 / [정보] 'SearchCommand' 다시 불러옴
+11시 59분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+11시 59분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+11시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+11시 59분 / [정보] 'AdminCommand' 다시 불러옴
+11시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+11시 59분 / [정보] 'event' 다시 불러옴
+11시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+11시 59분 / [정보] 'NormalCommandBot' 다시 불러옴
+11시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+11시 59분 / [정보] 'SearchCommand' 다시 불러옴
+11시 59분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+11시 59분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 228, in 패치
+    embed.add_field(name=champ_list[i], value=patch_list[i],inline = False)
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: list index out of range
+
+
+
+12시 05분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restarrt
+12시 05분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 05분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 05분 / [정보] 'AdminCommand' 다시 불러옴
+12시 05분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 05분 / [정보] 'event' 다시 불러옴
+12시 05분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 05분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 05분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 05분 / [정보] 'SearchCommand' 다시 불러옴
+12시 05분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 05분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 228, in 패치
+    embed.add_field(name=champ_list[i],inline = False)
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: list index out of range
+
+
+
+12시 06분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 06분 / [정보] 'AdminCommand' 다시 불러옴
+12시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 06분 / [정보] 'event' 다시 불러옴
+12시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 06분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 06분 / [정보] 'SearchCommand' 다시 불러옴
+12시 06분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 06분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 228, in 패치
+    embed.add_field(name=champ_list[i],inline = False)
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: list index out of range
+
+
+
+12시 06분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 06분 / [정보] 'AdminCommand' 다시 불러옴
+12시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 06분 / [정보] 'event' 다시 불러옴
+12시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 06분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 06분 / [정보] 'SearchCommand' 다시 불러옴
+12시 06분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 06분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 222, in 패치
+    logger.msg(len(champ_list))  # 메시지를 기록
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 55, in msg
+    if message.content == '':
+AttributeError: 'int' object has no attribute 'content'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'int' object has no attribute 'content'
+
+
+
+12시 07분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 07분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 07분 / [정보] 'AdminCommand' 다시 불러옴
+12시 07분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 07분 / [정보] 'event' 다시 불러옴
+12시 07분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 07분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 07분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 07분 / [정보] 'SearchCommand' 다시 불러옴
+12시 07분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 07분 / [정보] 0
+12시 08분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 08분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 08분 / [정보] 'AdminCommand' 다시 불러옴
+12시 08분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 08분 / [정보] 'event' 다시 불러옴
+12시 08분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 08분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 08분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 08분 / [정보] 'SearchCommand' 다시 불러옴
+12시 08분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 08분 / [정보] 0
+12시 09분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 09분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 09분 / [정보] 'AdminCommand' 다시 불러옴
+12시 09분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 09분 / [정보] 'event' 다시 불러옴
+12시 09분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 09분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 09분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 09분 / [정보] 'SearchCommand' 다시 불러옴
+12시 09분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 09분 / [정보] 0
+12시 11분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 11분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 11분 / [정보] 'AdminCommand' 다시 불러옴
+12시 11분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 11분 / [정보] 'event' 다시 불러옴
+12시 11분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 11분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 11분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 11분 / [정보] 'SearchCommand' 다시 불러옴
+12시 11분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 11분 / [정보] 0
+12시 12분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+12시 12분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+12시 12분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+12시 12분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+12시 12분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식 가위바위보
+12시 15분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 15분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 15분 / [정보] 'AdminCommand' 다시 불러옴
+12시 15분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 15분 / [정보] 'event' 다시 불러옴
+12시 15분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 15분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 15분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 15분 / [정보] 'SearchCommand' 다시 불러옴
+12시 16분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 16분 / [정보] 0
+12시 17분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 17분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 17분 / [정보] 'AdminCommand' 다시 불러옴
+12시 17분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 17분 / [정보] 'event' 다시 불러옴
+12시 17분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 17분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 17분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 17분 / [정보] 'SearchCommand' 다시 불러옴
+12시 17분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 17분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 218, in 패치
+    champ = soup.find("h3", attrs="champion-name").get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+12시 18분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 18분 / [정보] 'AdminCommand' 다시 불러옴
+12시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 18분 / [정보] 'event' 다시 불러옴
+12시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 18분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 18분 / [정보] 'SearchCommand' 다시 불러옴
+12시 18분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 18분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 218, in 패치
+    champ = soup.find("h3", attrs="champion-name").get_text().strip()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+12시 18분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 18분 / [정보] 'AdminCommand' 다시 불러옴
+12시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 18분 / [정보] 'event' 다시 불러옴
+12시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 18분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 18분 / [정보] 'SearchCommand' 다시 불러옴
+12시 18분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 18분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 218, in 패치
+    champ = soup.find("h3", attrs="champion-name").get_text().strip()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+12시 28분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 28분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 28분 / [정보] 'AdminCommand' 다시 불러옴
+12시 28분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 28분 / [정보] 'event' 다시 불러옴
+12시 28분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 28분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 28분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 28분 / [정보] 'SearchCommand' 다시 불러옴
+12시 28분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 노트
+12시 28분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 28분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 222, in 패치
+    await ctx.send(embed=embed)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.thumbnail.url: Scheme "http:https" is not supported. Scheme must be one of ('http', 'https').
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.thumbnail.url: Scheme "http:https" is not supported. Scheme must be one of ('http', 'https').
+
+
+
+12시 29분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 29분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 29분 / [정보] 'AdminCommand' 다시 불러옴
+12시 29분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 29분 / [정보] 'event' 다시 불러옴
+12시 29분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 29분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 29분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 29분 / [정보] 'SearchCommand' 다시 불러옴
+12시 29분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내여
+12시 29분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 30분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 30분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 30분 / [정보] 'AdminCommand' 다시 불러옴
+12시 30분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 30분 / [정보] 'event' 다시 불러옴
+12시 30분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 30분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 30분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 30분 / [정보] 'SearchCommand' 다시 불러옴
+12시 30분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 33분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 33분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 33분 / [정보] 'AdminCommand' 다시 불러옴
+12시 33분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 33분 / [정보] 'event' 다시 불러옴
+12시 33분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 33분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 33분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 33분 / [정보] 'SearchCommand' 다시 불러옴
+12시 33분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 33분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 219, in 패치
+    embed.add_field(name="http:" + patchLink, value="League of Legend",url = "http:" + patchLink ,inline = False)
+TypeError: add_field() got an unexpected keyword argument 'url'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: add_field() got an unexpected keyword argument 'url'
+
+
+
+12시 36분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 36분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 36분 / [정보] 'AdminCommand' 다시 불러옴
+12시 36분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 36분 / [정보] 'event' 다시 불러옴
+12시 36분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 36분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 36분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 36분 / [정보] 'SearchCommand' 다시 불러옴
+12시 36분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 37분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 37분 / [정보] 'AdminCommand' 다시 불러옴
+12시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 37분 / [정보] 'event' 다시 불러옴
+12시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 37분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 37분 / [정보] 'SearchCommand' 다시 불러옴
+12시 37분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 38분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 38분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 38분 / [정보] 'AdminCommand' 다시 불러옴
+12시 38분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 38분 / [정보] 'event' 다시 불러옴
+12시 38분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 38분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 38분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 38분 / [정보] 'SearchCommand' 다시 불러옴
+12시 38분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 39분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 39분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 39분 / [정보] 'AdminCommand' 다시 불러옴
+12시 39분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 39분 / [정보] 'event' 다시 불러옴
+12시 39분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 39분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 39분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 39분 / [정보] 'SearchCommand' 다시 불러옴
+12시 39분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 40분 / 봇서버 <일반 | 하리하루 | 758963978331619331> https://ko-kr/news/game-updates/patch-11-18-notes/
+12시 40분 / 봇서버 <일반 | 하리하루 | 758963978331619331> https://www.leagueoflegends.com/ko-kr/news/game-updates/patch-11-18-notes/
+12시 40분 / [정보] 하리하루이(가) 'https://www.leagueoflegends.com/ko-kr/news/game-updates/patch-11-18-notes/' 메시지를 'https://www.leagueoflegends.com/ko-kr/news/game-updates/patch-11-18-notes/' 로 수정
+12시 40분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 40분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 40분 / [정보] 'AdminCommand' 다시 불러옴
+12시 40분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 40분 / [정보] 'event' 다시 불러옴
+12시 40분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 40분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 40분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 40분 / [정보] 'SearchCommand' 다시 불러옴
+12시 41분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 내역
+12시 44분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 44분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 44분 / [정보] 'AdminCommand' 다시 불러옴
+12시 44분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 44분 / [정보] 'event' 다시 불러옴
+12시 44분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 44분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 44분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 44분 / [정보] 'SearchCommand' 다시 불러옴
+12시 44분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !패치 노트
+12시 45분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+12시 45분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 45분 / [정보] 'AdminCommand' 다시 불러옴
+12시 45분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 45분 / [정보] 'event' 다시 불러옴
+12시 45분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 45분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 45분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 45분 / [정보] 'SearchCommand' 다시 불러옴
+12시 45분 / 병신들 <실험 | 하리하루 | 758963978331619331> !패치 노트
+12시 52분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 52분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 52분 / [정보] 'AdminCommand' 다시 불러옴
+12시 52분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 52분 / [정보] 'event' 다시 불러옴
+12시 52분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 52분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 52분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 52분 / [정보] 'SearchCommand' 다시 불러옴
+12시 53분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !챔피언리스트
+12시 53분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 228, in 챔피언리스트
+    embed.add_field(name=i,inline = False)
+TypeError: add_field() missing 1 required keyword-only argument: 'value'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: add_field() missing 1 required keyword-only argument: 'value'
+
+
+
+12시 54분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+12시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 54분 / [정보] 'AdminCommand' 다시 불러옴
+12시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 54분 / [정보] 'event' 다시 불러옴
+12시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 54분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 54분 / [정보] 'SearchCommand' 다시 불러옴
+12시 54분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언리스트
+12시 54분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 228, in 챔피언리스트
+    embed.add_field(name=key,inline = False)
+TypeError: add_field() missing 1 required keyword-only argument: 'value'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: add_field() missing 1 required keyword-only argument: 'value'
+
+
+
+12시 55분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 55분 / [정보] 'AdminCommand' 다시 불러옴
+12시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 55분 / [정보] 'event' 다시 불러옴
+12시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 55분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 55분 / [정보] 'SearchCommand' 다시 불러옴
+12시 55분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !챔피언리스트
+12시 55분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 229, in 챔피언리스트
+    embed.add_field(name=key,inline = True)
+TypeError: add_field() missing 1 required keyword-only argument: 'value'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: add_field() missing 1 required keyword-only argument: 'value'
+
+
+
+12시 56분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 56분 / [정보] 'AdminCommand' 다시 불러옴
+12시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 56분 / [정보] 'event' 다시 불러옴
+12시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 56분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 56분 / [정보] 'SearchCommand' 다시 불러옴
+12시 56분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !챔피언리스트
+12시 57분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 57분 / [정보] 'AdminCommand' 다시 불러옴
+12시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 57분 / [정보] 'event' 다시 불러옴
+12시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 57분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 57분 / [정보] 'SearchCommand' 다시 불러옴
+12시 57분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !챔피언리스트
+12시 57분 / 병신들 <실험 | 하리하루 | 758963978331619331> =music help
+12시 59분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+12시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 59분 / [정보] 'AdminCommand' 다시 불러옴
+12시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 59분 / [정보] 'event' 다시 불러옴
+12시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 59분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 59분 / [정보] 'SearchCommand' 다시 불러옴
+13시 00분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !챔피언리스트
+13시 00분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+13시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 00분 / [정보] 'AdminCommand' 다시 불러옴
+13시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 00분 / [정보] 'event' 다시 불러옴
+13시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 00분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 00분 / [정보] 'SearchCommand' 다시 불러옴
+13시 00분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !챔피언 리스트
+13시 00분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !챔피언리스트
+13시 01분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+13시 01분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 01분 / [정보] 'AdminCommand' 다시 불러옴
+13시 01분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 01분 / [정보] 'event' 다시 불러옴
+13시 01분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 01분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 01분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 01분 / [정보] 'SearchCommand' 다시 불러옴
+13시 01분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !챔피언리스트
+13시 02분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+13시 02분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 02분 / [정보] 'AdminCommand' 다시 불러옴
+13시 02분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 02분 / [정보] 'event' 다시 불러옴
+13시 02분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 02분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 02분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 02분 / [정보] 'SearchCommand' 다시 불러옴
+13시 02분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !챔피언리스트
+13시 02분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언리스트
+13시 26분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> ?
+13시 29분 / 병신들 <📩채팅창 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> <@&734805645609402448> 오이오이
+13시 39분 / 병신들 <실험 | 알 수 없음 | 449764097601437702> !챔피언 뽀삐
+15시 10분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아무무
+15시 16분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 왜
+15시 16분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 왔다 가
+15시 17분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 들어갓는데
+15시 17분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 와이파이약해서
+15시 17분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 연결이 끊김자꾸
+15시 17분 / 병신들 <📩채팅창 | 장선효 | 534534395118485506> 어이쿠
+15시 17분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 그래서 걍 나옴
+15시 17분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> <:12:883743306721407006>
+15시 17분 / [정보] 하리하루이(가) '<:12:883743306721407006>' 메시지를 삭제
+15시 17분 / 병신들 <📩채팅창 | 장선효 | 534534395118485506> 아쉽네
+15시 29분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 키즈츠쿠노가
+15시 29분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 사다메다토시테모
+15시 30분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 코코로와마다 이로오하나츠
+15시 30분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 사이고노 스타더스트
+15시 30분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 마이아가레
+15시 34분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 페이트를
+15시 34분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> ^^ㅣ발
+15시 34분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 왜보는거임
+15시 34분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 안보고
+15시 34분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 들을수도
+15시 34분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 잇지
+15시 34분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 그럼
+15시 35분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 다른노래로
+15시 35분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 들려줄까?
+15시 35분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 마다타리나쿠테
+15시 35분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 마다키에나쿠테
+15시 35분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 카사네타 테노
+15시 36분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 히라카나오 사라사가
+15시 36분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 왓어굿띵 위 루즈
+15시 36분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 왓어 베드 띵 위 뉴
+16시 26분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> https://www.youtube.com/watch?v=YXxRygpdxE0ㅓ
+16시 26분 / [정보] 하리하루이(가) 'https://www.youtube.com/watch?v=YXxRygpdxE0ㅓ' 메시지를 'https://www.youtube.com/watch?v=YXxRygpdxE0ㅓ' 로 수정
+16시 26분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> ㅈㄴ 해보고 싶은데?
+16시 27분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ씹
+16시 27분 / 병신들 <📩채팅창 | MURYAN | 397036116676575233> 저거 챌찍을수잇다 나
+16시 30분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 한국 버전으로
+16시 30분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 나오면
+16시 30분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 막 페이커 영입되냐?
+16시 30분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 아니면
+16시 30분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 옛날 선수
+16시 30분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 영입 되려나
+16시 30분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 이미 은퇴한 찬밥이 형이라던가
+17시 33분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 33분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 33분 / [정보] 'AdminCommand' 다시 불러옴
+17시 33분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 33분 / [정보] 'event' 다시 불러옴
+17시 33분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 33분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 33분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 33분 / [정보] 'SearchCommand' 다시 불러옴
+17시 33분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 트위스티드페이트
+17시 34분 / 병신들 <📩채팅창 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 나도 와쑨
+17시 34분 / 병신들 <📩채팅창 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 왔누
+17시 36분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> <@!758963978331619331>
+17시 42분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 42분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 42분 / [정보] 'AdminCommand' 다시 불러옴
+17시 42분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 42분 / [정보] 'event' 다시 불러옴
+17시 42분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 42분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 42분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 42분 / [정보] 'SearchCommand' 다시 불러옴
+17시 42분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+17시 42분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 138, in 챔피언
+    counter_list.append(most.find('img'.get('src')))
+AttributeError: 'str' object has no attribute 'get'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'str' object has no attribute 'get'
+
+
+
+17시 43분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 43분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 43분 / [정보] 'AdminCommand' 다시 불러옴
+17시 43분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 43분 / [정보] 'event' 다시 불러옴
+17시 43분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 43분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 43분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 43분 / [정보] 'SearchCommand' 다시 불러옴
+17시 43분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+17시 44분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> <@!758963978331619331> 롤 하자
+17시 45분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 해줘 해줘
+17시 45분 / 병신들 <실험 | 하리하루 | 758963978331619331> 이잉
+17시 45분 / 병신들 <실험 | 하리하루 | 758963978331619331> 아직
+17시 45분 / 병신들 <실험 | 하리하루 | 758963978331619331> 한발 남았따
+17시 45분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> ?
+17시 45분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 해줘해줘
+17시 45분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 응애
+17시 47분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 다리우스
+17시 48분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 오 좀 ㄱㅊ아 졌누
+17시 49분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 49분 / [정보] 'AdminCommand' 다시 불러옴
+17시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 49분 / [정보] 'event' 다시 불러옴
+17시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 49분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 49분 / [정보] 'SearchCommand' 다시 불러옴
+17시 49분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 이렐리아
+17시 49분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 123, in 챔피언
+    chamPro = soup.find("div", attrs={"class":"champion-stats-header-info__image"}).find("img").get("src")
+AttributeError: 'NoneType' object has no attribute 'find'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'find'
+
+
+
+17시 49분 / 병신들 <실험 | 하리하루 | 758963978331619331> ???
+17시 49분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+17시 49분 / 병신들 <실험 | 하리하루 | 758963978331619331> 스펠링
+17시 50분 / 병신들 <실험 | 하리하루 | 758963978331619331> 틀렸나보네
+17시 50분 / 병신들 <실험 | 하리하루 | 758963978331619331> 애미
+17시 50분 / 병신들 <실험 | 하리하루 | 758963978331619331> 이렐
+17시 50분 / 병신들 <실험 | 하리하루 | 758963978331619331> 스펠링 뭐더라
+17시 50분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> Irelia
+17시 50분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 50분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 50분 / [정보] 'AdminCommand' 다시 불러옴
+17시 50분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 50분 / [정보] 'event' 다시 불러옴
+17시 50분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 50분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 50분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 50분 / [정보] 'SearchCommand' 다시 불러옴
+17시 51분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+17시 51분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> ?
+17시 51분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 보여줘
+17시 51분 / 병신들 <실험 | 하리하루 | 758963978331619331> ?
+17시 51분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !챔피언 아칼리
+17시 51분 / 병신들 <실험 | 하리하루 | 758963978331619331> 아직
+17시 51분 / 병신들 <실험 | 하리하루 | 758963978331619331> 안만듬
+17시 51분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 오
+17시 51분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 그래도 나오는게
+17시 51분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 어디임
+17시 51분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 디코해요
+17시 51분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 우리
+17시 51분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 소통해요
+17시 53분 / 병신들 <실험 | 하리하루 | 758963978331619331> 나
+17시 53분 / 병신들 <실험 | 하리하루 | 758963978331619331> 밥먹어요
+17시 53분 / 병신들 <실험 | 하리하루 | 758963978331619331> 밥먹고
+17시 53분 / 병신들 <실험 | 하리하루 | 758963978331619331> 소통해요
+17시 53분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> ?
+17시 53분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> ㅠ
+17시 54분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 54분 / [정보] 'AdminCommand' 다시 불러옴
+17시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 54분 / [정보] 'event' 다시 불러옴
+17시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 54분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 54분 / [정보] 'SearchCommand' 다시 불러옴
+17시 54분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+17시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 55분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 55분 / [정보] ======================
+17시 55분 / [정보] < 구동 완료 >
+17시 55분 / [정보] ======================
+17시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 55분 / [정보] 'AdminCommand' 다시 불러옴
+17시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 55분 / [정보] 'event' 다시 불러옴
+17시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 55분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 55분 / [정보] 'SearchCommand' 다시 불러옴
+17시 55분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+17시 55분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 이렐리아
+17시 55분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !챔피언 카이사
+17시 55분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 주아야
+17시 55분 / 병신들 <실험 | 하리하루 | 758963978331619331> ㅇㅇ
+17시 55분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 아니야
+17시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> ?????????
+17시 56분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> ㅎㅎㅎ
+17시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> 거
+17시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> 없나?
+17시 56분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> ???
+17시 56분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 선넘네
+17시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> 않이
+17시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> 생각이 없나라고
+17시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> 한거임
+17시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> ㅇㅇ
+17시 58분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> .......
+17시 58분 / 병신들 <실험 | 하리하루 | 758963978331619331> ^^7
+18시 00분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 중국 영화특
+18시 00분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 각성하면 머리 하얀색됨
+18시 01분 / 병신들 <실험 | 하리하루 | 758963978331619331> 드레곤볼특 각성하면 머리카락 길어짐
+18시 01분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> ㅌㅋㅋㅋㅋㅋㅋ
+18시 01분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 우리 디코해요
+18시 06분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+18시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 06분 / [정보] 'AdminCommand' 다시 불러옴
+18시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 06분 / [정보] 'event' 다시 불러옴
+18시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 06분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 06분 / [정보] 'SearchCommand' 다시 불러옴
+18시 06분 / [정보] 0
+18시 06분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 07분 / [정보] 0
+18시 07분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 08분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 08분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 08분 / [정보] 'AdminCommand' 다시 불러옴
+18시 08분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 08분 / [정보] 'event' 다시 불러옴
+18시 08분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 08분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 08분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 08분 / [정보] 'SearchCommand' 다시 불러옴
+18시 08분 / [정보] 0
+18시 08분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 08분 / [정보] 0
+18시 08분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 11분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 11분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 11분 / [정보] 'AdminCommand' 다시 불러옴
+18시 11분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 11분 / [정보] 'event' 다시 불러옴
+18시 11분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 11분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 11분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 11분 / [정보] 'SearchCommand' 다시 불러옴
+18시 11분 / [정보] None
+18시 11분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 12분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 12분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 12분 / [정보] 'AdminCommand' 다시 불러옴
+18시 12분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 12분 / [정보] 'event' 다시 불러옴
+18시 12분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 12분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 12분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 12분 / [정보] 'SearchCommand' 다시 불러옴
+18시 12분 / [정보] None
+18시 12분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 14분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 14분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 14분 / [정보] 'AdminCommand' 다시 불러옴
+18시 14분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 14분 / [정보] 'event' 다시 불러옴
+18시 14분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 14분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 14분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 14분 / [정보] 'SearchCommand' 다시 불러옴
+18시 14분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 14분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 250, in PS
+    res = requests.get(url,headers=headers).text
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1279, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1320, in _send_request
+    self.putheader(hdr, value)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 219, in putheader
+    _HTTPConnection.putheader(self, header, *values)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1252, in putheader
+    values[i] = one_value.encode('latin-1')
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 0-3: ordinal not in range(256)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: UnicodeEncodeError: 'latin-1' codec can't encode characters in position 0-3: ordinal not in range(256)
+
+
+
+18시 16분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 16분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 16분 / [정보] 'AdminCommand' 다시 불러옴
+18시 16분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 16분 / [정보] 'event' 다시 불러옴
+18시 16분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 16분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 16분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 16분 / [정보] 'SearchCommand' 다시 불러옴
+18시 16분 / [정보] 0
+18시 16분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 17분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 17분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 17분 / [정보] 'AdminCommand' 다시 불러옴
+18시 17분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 17분 / [정보] 'event' 다시 불러옴
+18시 17분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 17분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 17분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 17분 / [정보] 'SearchCommand' 다시 불러옴
+18시 17분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 17분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 253, in PS
+    patch = soup.find("div", attrs={"class":"simplebar-content", "sytle":"padding: 0px;"}).get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+18시 18분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 18분 / [정보] 'AdminCommand' 다시 불러옴
+18시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 18분 / [정보] 'event' 다시 불러옴
+18시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 18분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 18분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 18분 / [정보] 'SearchCommand' 다시 불러옴
+18시 18분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 18분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 253, in PS
+    patch = soup.find("div", attrs={"class":"simplebar-content"}).get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+18시 20분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 20분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 20분 / [정보] 'AdminCommand' 다시 불러옴
+18시 20분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 20분 / [정보] 'event' 다시 불러옴
+18시 20분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 20분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 20분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 20분 / [정보] 'SearchCommand' 다시 불러옴
+18시 20분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 20분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 253, in PS
+    patch = soup.find("div", attrs={"class":"simplebar-content"}).get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+18시 21분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 21분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 21분 / [정보] 'AdminCommand' 다시 불러옴
+18시 21분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 21분 / [정보] 'event' 다시 불러옴
+18시 21분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 21분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 21분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 21분 / [정보] 'SearchCommand' 다시 불러옴
+18시 21분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 21분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 253, in PS
+    patch = soup.find("div", attrs={"class":"simplebar-content"}).get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+18시 22분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !챔피언 아칼리
+18시 23분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 23분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 23분 / [정보] 'AdminCommand' 다시 불러옴
+18시 23분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 23분 / [정보] 'event' 다시 불러옴
+18시 23분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 23분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 23분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 23분 / [정보] 'SearchCommand' 다시 불러옴
+18시 23분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 23분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 251, in PS
+    res = urllib.request.Request(url=url, headers=head).text
+AttributeError: 'Request' object has no attribute 'text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'Request' object has no attribute 'text'
+
+
+
+18시 24분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !챔피언 아펠리오스
+18시 25분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 25분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 25분 / [정보] 'AdminCommand' 다시 불러옴
+18시 25분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 25분 / [정보] 'event' 다시 불러옴
+18시 25분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 25분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 25분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 25분 / [정보] 'SearchCommand' 다시 불러옴
+18시 25분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 25분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 251, in PS
+    res = urllib.request.Request(url=url, headers=head).text
+AttributeError: 'Request' object has no attribute 'text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'Request' object has no attribute 'text'
+
+
+
+18시 26분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 26분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 26분 / [정보] 'AdminCommand' 다시 불러옴
+18시 26분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 26분 / [정보] 'event' 다시 불러옴
+18시 26분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 26분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 26분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 26분 / [정보] 'SearchCommand' 다시 불러옴
+18시 26분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 26분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 253, in PS
+    soup = BeautifulSoup(res, "html.parser")
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'Request' has no len()
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: object of type 'Request' has no len()
+
+
+
+18시 26분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 26분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 26분 / [정보] 'AdminCommand' 다시 불러옴
+18시 26분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 26분 / [정보] 'event' 다시 불러옴
+18시 26분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 26분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 26분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 26분 / [정보] 'SearchCommand' 다시 불러옴
+18시 26분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 26분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 253, in PS
+    soup = BeautifulSoup(res, "html.parser")
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\bs4\__init__.py", line 312, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'Request' has no len()
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: object of type 'Request' has no len()
+
+
+
+18시 27분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 27분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 27분 / [정보] 'AdminCommand' 다시 불러옴
+18시 27분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 27분 / [정보] 'event' 다시 불러옴
+18시 27분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 27분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 27분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 27분 / [정보] 'SearchCommand' 다시 불러옴
+18시 27분 / [정보] <title>LOL.PS</title>
+18시 27분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 27분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 257, in PS
+    patch = soup.find("div", attrs={"class":"simplebar-content"}).get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+18시 27분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 27분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 27분 / [정보] 'AdminCommand' 다시 불러옴
+18시 27분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 27분 / [정보] 'event' 다시 불러옴
+18시 27분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 27분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 27분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 27분 / [정보] 'SearchCommand' 다시 불러옴
+18시 27분 / [정보] <title>LOL.PS</title>
+18시 27분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 29분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 29분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 29분 / [정보] 'AdminCommand' 다시 불러옴
+18시 29분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 29분 / [정보] 'event' 다시 불러옴
+18시 29분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 29분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 29분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 29분 / [정보] 'SearchCommand' 다시 불러옴
+18시 29분 / [정보] <title>LOL.PS</title>
+18시 29분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 32분 / 병신들 <📩채팅창 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> <@!758963978331619331> 소통하자메
+18시 34분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 34분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 34분 / [정보] 'AdminCommand' 다시 불러옴
+18시 34분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 34분 / [정보] 'event' 다시 불러옴
+18시 34분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 34분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 34분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 34분 / [정보] 'SearchCommand' 다시 불러옴
+18시 34분 / [정보] <title>LOL.PS</title>
+18시 34분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 34분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 260, in PS
+    patch = soup.find("div", attrs={"class":"simplebar-content"}).get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+18시 34분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 34분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 34분 / [정보] 'AdminCommand' 다시 불러옴
+18시 34분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 34분 / [정보] 'event' 다시 불러옴
+18시 34분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 34분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 34분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 34분 / [정보] 'SearchCommand' 다시 불러옴
+18시 34분 / [정보] <title>LOL.PS</title>
+18시 34분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 34분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 261, in PS
+    await ctx.send(soup.get_text())
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+
+
+
+18시 35분 / [정보] <title>LOL.PS</title>
+18시 35분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 35분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 261, in PS
+    #await ctx.send(soup.get_text())
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+
+
+
+18시 37분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 37분 / [정보] 'AdminCommand' 다시 불러옴
+18시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 37분 / [정보] 'event' 다시 불러옴
+18시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 37분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 37분 / [정보] 'SearchCommand' 다시 불러옴
+18시 37분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 37분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 257, in PS
+    logger.info()
+TypeError: info() missing 1 required positional argument: 'msg'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: info() missing 1 required positional argument: 'msg'
+
+
+
+18시 37분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 37분 / [정보] 'AdminCommand' 다시 불러옴
+18시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 37분 / [정보] 'event' 다시 불러옴
+18시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 37분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 37분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 37분 / [정보] 'SearchCommand' 다시 불러옴
+18시 37분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 37분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 258, in PS
+    patch = soup.find("div", attrs={"class":"simplebar-content-wrapper"}).get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+18시 38분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 38분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 38분 / [정보] 'AdminCommand' 다시 불러옴
+18시 38분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 38분 / [정보] 'event' 다시 불러옴
+18시 38분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 38분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 38분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 38분 / [정보] 'SearchCommand' 다시 불러옴
+18시 38분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 38분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 258, in PS
+    patch = soup.find("div", attrs={"class":"swiper-slide champ-slide"}).get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+18시 39분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 39분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 39분 / [정보] 'AdminCommand' 다시 불러옴
+18시 39분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 39분 / [정보] 'event' 다시 불러옴
+18시 39분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 39분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 39분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 39분 / [정보] 'SearchCommand' 다시 불러옴
+18시 39분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 40분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 40분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 40분 / [정보] 'AdminCommand' 다시 불러옴
+18시 40분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 40분 / [정보] 'event' 다시 불러옴
+18시 40분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 40분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 40분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 40분 / [정보] 'SearchCommand' 다시 불러옴
+18시 40분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 40분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 259, in PS
+    await ctx.send(patch)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+
+
+18시 42분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 42분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 42분 / [정보] 'AdminCommand' 다시 불러옴
+18시 42분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 42분 / [정보] 'event' 다시 불러옴
+18시 42분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 42분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 42분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 42분 / [정보] 'SearchCommand' 다시 불러옴
+18시 42분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 42분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 258, in PS
+    patch = soup.find("div", attrs={"class":"simplebar-placeholder"}).get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+18시 43분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 43분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 43분 / [정보] 'AdminCommand' 다시 불러옴
+18시 43분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 43분 / [정보] 'event' 다시 불러옴
+18시 43분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 43분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 43분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 43분 / [정보] 'SearchCommand' 다시 불러옴
+18시 44분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 44분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 258, in PS
+    patch = soup.find("div", attrs={"class":"champinfo-difference"}).get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+18시 44분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 44분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 44분 / [정보] 'AdminCommand' 다시 불러옴
+18시 44분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 44분 / [정보] 'event' 다시 불러옴
+18시 44분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 44분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 44분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 44분 / [정보] 'SearchCommand' 다시 불러옴
+18시 44분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 44분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 258, in PS
+    patch = soup.find("h4", attrs={"class":"champinfo-label"}).get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+18시 47분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 47분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 47분 / [정보] 'AdminCommand' 다시 불러옴
+18시 47분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 47분 / [정보] 'event' 다시 불러옴
+18시 47분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 47분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 47분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 47분 / [정보] 'SearchCommand' 다시 불러옴
+18시 48분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 48분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 258, in PS
+    patch = soup.find("h4", attrs={"class":"champ-link text-right"}).get_text()
+AttributeError: 'NoneType' object has no attribute 'get_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'get_text'
+
+
+
+18시 48분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 48분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 48분 / [정보] 'AdminCommand' 다시 불러옴
+18시 48분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 48분 / [정보] 'event' 다시 불러옴
+18시 48분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 48분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 48분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 48분 / [정보] 'SearchCommand' 다시 불러옴
+18시 48분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 48분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 259, in PS
+    await ctx.send(patch)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+
+
+18시 49분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 49분 / [정보] 'AdminCommand' 다시 불러옴
+18시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 49분 / [정보] 'event' 다시 불러옴
+18시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 49분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 49분 / [정보] 'SearchCommand' 다시 불러옴
+18시 49분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 49분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 49분 / [정보] 'AdminCommand' 다시 불러옴
+18시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 49분 / [정보] 'event' 다시 불러옴
+18시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 49분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 49분 / [정보] 'SearchCommand' 다시 불러옴
+18시 49분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 49분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 259, in PS
+    await ctx.send(patch)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+
+
+18시 50분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 50분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 50분 / [정보] 'AdminCommand' 다시 불러옴
+18시 50분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 50분 / [정보] 'event' 다시 불러옴
+18시 50분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 50분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 50분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 50분 / [정보] 'SearchCommand' 다시 불러옴
+18시 50분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 50분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 259, in PS
+    await ctx.send(patch)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+
+
+18시 51분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 51분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 51분 / [정보] 'AdminCommand' 다시 불러옴
+18시 51분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 51분 / [정보] 'event' 다시 불러옴
+18시 51분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 51분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 51분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 51분 / [정보] 'SearchCommand' 다시 불러옴
+18시 51분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 51분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 259, in PS
+    await ctx.send(patch)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+
+
+18시 52분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 52분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 52분 / [정보] 'AdminCommand' 다시 불러옴
+18시 52분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 52분 / [정보] 'event' 다시 불러옴
+18시 52분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 52분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 52분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 52분 / [정보] 'SearchCommand' 다시 불러옴
+18시 52분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 52분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 259, in PS
+    await ctx.send(patch)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+
+
+
+18시 55분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+18시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 55분 / [정보] 'AdminCommand' 다시 불러옴
+18시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 55분 / [정보] 'event' 다시 불러옴
+18시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 55분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 55분 / [정보] 'SearchCommand' 다시 불러옴
+18시 55분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+18시 55분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 259, in PS
+    await ctx.send(patch)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+
+
+19시 32분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+19시 32분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+19시 32분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+19시 32분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+19시 32분 / [정보] ======================
+19시 32분 / [정보] < 구동 완료 >
+19시 32분 / [정보] ======================
+19시 32분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS'
+19시 32분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+19시 32분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 260, in PS
+    await ctx.send(soup.get_text())
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+
+
+
+19시 34분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+19시 34분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 260, in PS
+    for most in range(0,3000):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+
+
+
+19시 34분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+19시 34분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+19시 34분 / [정보] 'AdminCommand' 다시 불러옴
+19시 34분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+19시 34분 / [정보] 'event' 다시 불러옴
+19시 34분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+19시 34분 / [정보] 'NormalCommandBot' 다시 불러옴
+19시 34분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+19시 34분 / [정보] 'SearchCommand' 다시 불러옴
+19시 35분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+19시 35분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+19시 35분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+19시 35분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+19시 35분 / [정보] ======================
+19시 35분 / [정보] < 구동 완료 >
+19시 35분 / [정보] ======================
+19시 35분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+19시 36분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !restart
+19시 36분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+19시 36분 / [정보] 'AdminCommand' 다시 불러옴
+19시 36분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+19시 36분 / [정보] 'event' 다시 불러옴
+19시 36분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+19시 36분 / [정보] 'NormalCommandBot' 다시 불러옴
+19시 36분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+19시 36분 / [정보] 'SearchCommand' 다시 불러옴
+19시 36분 / 봇서버 <일반 | 하리하루 | 758963978331619331> !PS
+19시 38분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !그웬식가위바위보
+19시 38분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !가위바위보
+19시 43분 / 병신들 <실험 | 하리하루 | 758963978331619331> !패치 노트
+19시 44분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 소통을 하기위해선
+19시 44분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 편의점을
+19시 44분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 갈 필요가
+19시 44분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 있다
+20시 13분 / 병신들 <📩채팅창 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> <@!758963978331619331>
+20시 14분 / 병신들 <📩채팅창 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 소통해 ㅅㅂ
+20시 31분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 소통해요
+20시 31분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+20시 41분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+20시 41분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+20시 41분 / [정보] 'AdminCommand' 다시 불러옴
+20시 41분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+20시 41분 / [정보] 'event' 다시 불러옴
+20시 41분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+20시 41분 / [정보] 'NormalCommandBot' 다시 불러옴
+20시 41분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+20시 41분 / [정보] 'SearchCommand' 다시 불러옴
+20시 42분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 케넨
+20시 53분 / 병신들 <📩채팅창 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 그냥 뒤지셈
+21시 48분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 이블린
+23시 12분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리

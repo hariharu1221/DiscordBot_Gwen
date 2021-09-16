@@ -17,7 +17,7 @@ class Config:
     activity = "가위가 바위를 이기게"
 
     # 접두사
-    prefixes = ['!', '그웬아 ']
+    prefixes = ['#', '그웬아 ']
 
     # 봇의 버전
     version = '-1.0'

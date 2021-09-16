@@ -6,6 +6,7 @@ from utils import logger
 
 # 부가 임포트
 from utils import util_box
+import openpyxl
 import random
 random.random()
 
@@ -25,6 +26,16 @@ class EventCog(commands.Cog):
         if message.content.endswith("바보"):
             await message.channel.send('바보')  # 바보 아니라고 답변
 
+        #배운거 답변
+        if message.content.startswith("그웬아") or message.content.startswith("!"):
+            word = message.content.split(" ")
+            wb = openpyxl.load_workbook("memory.xlsx")
+            ws = wb.active
+
+            for i in range(1, 10):
+                if ws["A" + str(i)].value == word[1]:
+                    await message.channel.send(ws["B" + str(i)].value)
+                    break
 
     # 누가 서버에 들어오면 여기가 실행될 거야
     @commands.Cog.listener()
@@ -65,17 +76,17 @@ class EventCog(commands.Cog):
     async def on_command_error(self, ctx, error):
         if isinstance(error, discord.errors.Forbidden):  # 권한 부족 오류
             try:
-                return await ctx.send('어어... 권한이 없네?')
+                return await ctx.send('내 권한이 부족해.. ㅠㅠ')
             except discord.errors.Forbidden:  # 여기는 봇이 볼 수는 있지만 메시지를 쓸 수 조차 없는 경우야
-                return logger.warn('채팅 쓰기 권한 부족 오류 발생')
+                return logger.warn('채팅 권한 없음')
 
         elif isinstance(error, commands.errors.CommandNotFound):  # 해당하는 명령어가 없는 경우
-            return await ctx.send('그런 명령어는 없어!')
+            return await ctx.send('몰루, 히힛!')
 
         elif isinstance(error, commands.CommandOnCooldown):  # 명령어 쿨타임이 다 차지 않은 경우
             return await ctx.send(
-                f'이 명령어는 {error.cooldown.rate}번 쓰면 {error.cooldown.per}초의 쿨타임이 생겨!'
-                f'```cs\n{int(error.retry_after)}초 후에 다시 시도해!```')
+                f'이 명령어는 {error.cooldown.rate}번 쓰면 {error.cooldown.per}초의 쿨타임이 생기는 명령어야!'
+                f'``cs\n{int(error.retry_after)}초 남았어!``')
 
         await ctx.send(f'오류가 발생했어...\n`{str(error)}`')
         logger.err(error)
@@ -83,4 +94,4 @@ class EventCog(commands.Cog):
 
 def setup(bot):
     logger.info(f'{os.path.abspath(__file__)} 로드 완료')
-    bot.add_cog(EventCog(bot))  # 꼭 이렇게 위의 클래스를 이렇게 add_cog해 줘야 작동해요!
+    bot.add_cog(EventCog(bot))

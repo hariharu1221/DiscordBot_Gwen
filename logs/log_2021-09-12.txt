@@ -1,0 +1,657 @@
+00시 03분 / 병신들 <실험 | 김강냉 | 582041127323041813> https://youtu.be/4W0uOIubCDA
+00시 03분 / [정보] 김강냉이(가) 'https://youtu.be/4W0uOIubCDA' 메시지를 'https://youtu.be/4W0uOIubCDA' 로 수정
+00시 03분 / 병신들 <실험 | 김강냉 | 582041127323041813> 사전예약 ㅇ ㅡㅇ애
+00시 34분 / 병신들 <📩채팅창 | 박병현 | 690902795452416043> <@!595209237920088074> 아까는 너무 정신없었음.....ㅈㅅㅈㅅ ㅠㅠ
+01시 01분 / 병신들 <실험 | ping | 669911401183182848> 드디어 레앜이
+02시 35분 / 병신들 <📩채팅창 | 재현 | 595209237920088074> ㅋㅋㅋㅋㅋ ㄱㅊㄱㅊ
+04시 27분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> https://youtu.be/o2XGl8PLLlI
+04시 27분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> 레밀리아는 왜나오고
+04시 27분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> 과로사는 씬스틸러노 ㅋㅋㅋㅋㅋㅋㅋ
+04시 27분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> 그저 레밀갓,,
+11시 44분 / [정보] ======================
+11시 44분 / [정보] < 구동 완료 >
+11시 44분 / [정보] ======================
+11시 59분 / 병신들 <실험 | 하리하루 | 758963978331619331> !패치 노트
+12시 00분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+12시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 00분 / [정보] 'AdminCommand' 다시 불러옴
+12시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 00분 / [정보] 'event' 다시 불러옴
+12시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 00분 / [정보] 'NormalCommandBot' 다시 불러옴
+12시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 00분 / [정보] 'SearchCommand' 다시 불러옴
+12시 00분 / 병신들 <실험 | 하리하루 | 758963978331619331> !패치 노트
+13시 04분 / 병신들 <실험 | 하리하루 | 758963978331619331> ???
+13시 04분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 왜
+13시 04분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 오고
+13시 04분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 가노
+13시 04분 / 병신들 <📩채팅창 | 박병현 | 690902795452416043> 학원인데
+13시 04분 / 병신들 <📩채팅창 | 박병현 | 690902795452416043> 에어팟 말도 갑자기
+13시 05분 / 병신들 <📩채팅창 | 박병현 | 690902795452416043> 폰으로 니 소리 들리길래 개 놀람
+13시 06분 / 병신들 <📩채팅창 | 박병현 | 690902795452416043> 뭔진 모르게ㅆ지만
+13시 06분 / 병신들 <📩채팅창 | 박병현 | 690902795452416043> 재밌게 하시고~
+13시 06분 / 병신들 <📩채팅창 | 박병현 | 690902795452416043> 난 다시 갑니다;;
+13시 41분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 41분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 41분 / [정보] 'AdminCommand' 다시 불러옴
+13시 41분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 41분 / [정보] 'event' 다시 불러옴
+13시 41분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 41분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 41분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 41분 / [정보] 'SearchCommand' 다시 불러옴
+13시 42분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+13시 42분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 211, in 챔피언
+    Background.paste(getImg(SeleLune_list[0], 200,200), (250,200))
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: list index out of range
+
+
+
+13시 42분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 42분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 42분 / [정보] 'AdminCommand' 다시 불러옴
+13시 42분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 42분 / [정보] 'event' 다시 불러옴
+13시 42분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 42분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 42분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 42분 / [정보] 'SearchCommand' 다시 불러옴
+13시 42분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+13시 42분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 211, in 챔피언
+    Background.paste(getImg(SeleLune_list[0], 200,200), (250,200))
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: list index out of range
+
+
+
+13시 43분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 43분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 43분 / [정보] 'AdminCommand' 다시 불러옴
+13시 43분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 43분 / [정보] 'event' 다시 불러옴
+13시 43분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 43분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 43분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 43분 / [정보] 'SearchCommand' 다시 불러옴
+13시 44분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+13시 44분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 211, in 챔피언
+    Background.paste(getImg(SeleLune_list[0], 200,200), (250,200))
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: list index out of range
+
+
+
+13시 44분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 44분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 44분 / [정보] 'AdminCommand' 다시 불러옴
+13시 44분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 44분 / [정보] 'event' 다시 불러옴
+13시 44분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 44분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 44분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 44분 / [정보] 'SearchCommand' 다시 불러옴
+13시 44분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+13시 48분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 48분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 48분 / [정보] 'AdminCommand' 다시 불러옴
+13시 48분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 48분 / [정보] 'event' 다시 불러옴
+13시 48분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 48분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 48분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 48분 / [정보] 'SearchCommand' 다시 불러옴
+13시 48분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+13시 48분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 211, in 챔피언
+    Background.paste(getImg(SeleLune_list[0], 200,200), (250,200))
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: list index out of range
+
+
+
+13시 49분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 49분 / [정보] 'AdminCommand' 다시 불러옴
+13시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 49분 / [정보] 'event' 다시 불러옴
+13시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 49분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 49분 / [정보] 'SearchCommand' 다시 불러옴
+13시 49분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+13시 50분 / [정보] 0
+13시 51분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+13시 51분 / [정보] 0
+13시 52분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 52분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 52분 / [정보] 'AdminCommand' 다시 불러옴
+13시 52분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 52분 / [정보] 'event' 다시 불러옴
+13시 52분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 52분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 52분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 52분 / [정보] 'SearchCommand' 다시 불러옴
+13시 53분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+13시 53분 / [정보] 0
+13시 53분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 53분 / [정보] 'AdminCommand' 다시 불러옴
+13시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 53분 / [정보] 'event' 다시 불러옴
+13시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 53분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 53분 / [정보] 'SearchCommand' 다시 불러옴
+13시 54분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+13시 54분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 200, in 챔피언
+    SeleLune = soup.find("div", attrs={"class":"perk-page__item  perk-page__item--active"}).find("img").get("src")
+AttributeError: 'NoneType' object has no attribute 'find'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'find'
+
+
+
+13시 54분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 54분 / [정보] 'AdminCommand' 다시 불러옴
+13시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 54분 / [정보] 'event' 다시 불러옴
+13시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 54분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 54분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 54분 / [정보] 'SearchCommand' 다시 불러옴
+13시 54분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+13시 54분 / [정보] 0
+13시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 56분 / [정보] 'AdminCommand' 다시 불러옴
+13시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 56분 / [정보] 'event' 다시 불러옴
+13시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 56분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 56분 / [정보] 'SearchCommand' 다시 불러옴
+13시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+13시 56분 / [정보] 0
+13시 57분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 57분 / [정보] 'AdminCommand' 다시 불러옴
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 57분 / [정보] 'event' 다시 불러옴
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 57분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 57분 / [정보] 'SearchCommand' 다시 불러옴
+13시 57분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+13시 57분 / [정보] 2
+13시 57분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 57분 / [정보] 'AdminCommand' 다시 불러옴
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 57분 / [정보] 'event' 다시 불러옴
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 57분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 57분 / [정보] 'SearchCommand' 다시 불러옴
+13시 57분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+13시 57분 / [정보] 2
+13시 59분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+13시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 59분 / [정보] 'AdminCommand' 다시 불러옴
+13시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 59분 / [정보] 'event' 다시 불러옴
+13시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 59분 / [정보] 'NormalCommandBot' 다시 불러옴
+13시 59분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 59분 / [정보] 'SearchCommand' 다시 불러옴
+13시 59분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+13시 59분 / [정보] 0
+14시 05분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+14시 05분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+14시 05분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+14시 05분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+14시 05분 / [정보] ======================
+14시 05분 / [정보] < 구동 완료 >
+14시 05분 / [정보] ======================
+14시 05분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+14시 05분 / [정보] 5
+14시 06분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+14시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+14시 06분 / [정보] 'AdminCommand' 다시 불러옴
+14시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+14시 06분 / [정보] 'event' 다시 불러옴
+14시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+14시 06분 / [정보] 'NormalCommandBot' 다시 불러옴
+14시 06분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+14시 06분 / [정보] 'SearchCommand' 다시 불러옴
+14시 06분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+14시 06분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+14시 09분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+14시 09분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+14시 09분 / [정보] 'AdminCommand' 다시 불러옴
+14시 09분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+14시 09분 / [정보] 'event' 다시 불러옴
+14시 09분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+14시 09분 / [정보] 'NormalCommandBot' 다시 불러옴
+14시 09분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+14시 09분 / [정보] 'SearchCommand' 다시 불러옴
+14시 09분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+14시 10분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+14시 10분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+14시 10분 / [정보] 'AdminCommand' 다시 불러옴
+14시 10분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+14시 10분 / [정보] 'event' 다시 불러옴
+14시 10분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+14시 10분 / [정보] 'NormalCommandBot' 다시 불러옴
+14시 10분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+14시 10분 / [정보] 'SearchCommand' 다시 불러옴
+14시 10분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+14시 10분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 노틸러스
+14시 11분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 스카너
+14시 19분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+14시 19분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+14시 19분 / [정보] 'AdminCommand' 다시 불러옴
+14시 19분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+14시 19분 / [정보] 'event' 다시 불러옴
+14시 19분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+14시 19분 / [정보] 'NormalCommandBot' 다시 불러옴
+14시 19분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+14시 19분 / [정보] 'SearchCommand' 다시 불러옴
+14시 19분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 스카너
+14시 19분 / [정보] 0
+14시 27분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+14시 27분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+14시 27분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+14시 27분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+14시 27분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+14시 27분 / [정보] ======================
+14시 27분 / [정보] < 구동 완료 >
+14시 27분 / [정보] ======================
+14시 29분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+14시 30분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 케넨
+15시 48분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 파이크
+16시 28분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아크샨
+16시 30분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 카타리나
+17시 03분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 룰루
+17시 08분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 08분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 08분 / [정보] 'AdminCommand' 다시 불러옴
+17시 08분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 08분 / [정보] 'event' 다시 불러옴
+17시 08분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 08분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 08분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 08분 / [정보] 'SearchCommand' 다시 불러옴
+17시 08분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 그웬
+17시 14분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 14분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 14분 / [정보] 'AdminCommand' 다시 불러옴
+17시 14분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 14분 / [정보] 'event' 다시 불러옴
+17시 14분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 14분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 14분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 14분 / [정보] 'SearchCommand' 다시 불러옴
+17시 14분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+17시 16분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아크샨
+17시 17분 / 병신들 <실험 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> !챔피언 이즈리얼
+17시 31분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 31분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 31분 / [정보] 'AdminCommand' 다시 불러옴
+17시 31분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 31분 / [정보] 'event' 다시 불러옴
+17시 31분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 31분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 31분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 31분 / [정보] 'SearchCommand' 다시 불러옴
+17시 31분 / 병신들 <실험 | 하리하루 | 758963978331619331> !원딜 조이
+17시 31분 / 병신들 <실험 | 하리하루 | 758963978331619331> !미드 조이
+17시 31분 / 병신들 <실험 | 하리하루 | 758963978331619331> ^^ㅣ발
+17시 32분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+17시 33분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 33분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 33분 / [정보] 'AdminCommand' 다시 불러옴
+17시 33분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 33분 / [정보] 'event' 다시 불러옴
+17시 33분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 33분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 33분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 33분 / [정보] 'SearchCommand' 다시 불러옴
+17시 33분 / 병신들 <실험 | 하리하루 | 758963978331619331> !원딜 조이
+17시 33분 / 병신들 <실험 | 하리하루 | 758963978331619331> !서폿 조이
+17시 36분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 36분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 36분 / [정보] 'AdminCommand' 다시 불러옴
+17시 36분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 36분 / [정보] 'event' 다시 불러옴
+17시 36분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 36분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 36분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 36분 / [정보] 'SearchCommand' 다시 불러옴
+17시 36분 / 병신들 <실험 | 하리하루 | 758963978331619331> !서폿 조이
+17시 39분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 39분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 39분 / [정보] 'AdminCommand' 다시 불러옴
+17시 39분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 39분 / [정보] 'event' 다시 불러옴
+17시 39분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 39분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 39분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 39분 / [정보] 'SearchCommand' 다시 불러옴
+17시 39분 / 병신들 <실험 | 하리하루 | 758963978331619331> !서폿 조이
+17시 40분 / 병신들 <실험 | 하리하루 | 758963978331619331> !원딜 아크샨
+17시 40분 / 병신들 <실험 | 하리하루 | 758963978331619331> !탑 판테온
+17시 40분 / 병신들 <실험 | 하리하루 | 758963978331619331> !정글 조이
+17시 40분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 475, in 정글
+    Background.paste(getImg(spell_list[0], 100,100), (90, 1185))
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: list index out of range
+
+
+
+17시 41분 / 병신들 <실험 | 하리하루 | 758963978331619331> !정글 신드라
+17시 41분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 481, in 정글
+    Background.paste(getImg(counter_list[0], 100,100), (500,1270))
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: list index out of range
+
+
+
+17시 41분 / 병신들 <실험 | 하리하루 | 758963978331619331> !정글 아무무
+17시 41분 / 병신들 <실험 | 하리하루 | 758963978331619331> !정글 아크샨
+17시 41분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 483, in 정글
+    Background.paste(getImg(counter_list[2], 100,100), (750,1270))
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: list index out of range
+
+
+
+17시 41분 / 병신들 <실험 | 하리하루 | 758963978331619331> !원딜 아무무
+17시 41분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 793, in 원딜
+    Background.paste(getImg(counter_list[0], 100,100), (500,1270))
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: list index out of range
+
+
+
+17시 43분 / 병신들 <실험 | 하리하루 | 758963978331619331> !정글 루시안
+17시 43분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 481, in 정글
+    Background.paste(getImg(counter_list[0], 100,100), (500,1270))
+IndexError: list index out of range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: IndexError: list index out of range
+
+
+
+17시 49분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 49분 / [정보] 'AdminCommand' 다시 불러옴
+17시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 49분 / [정보] 'event' 다시 불러옴
+17시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 49분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 49분 / [정보] 'SearchCommand' 다시 불러옴
+17시 49분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+17시 50분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 50분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 50분 / [정보] 'AdminCommand' 다시 불러옴
+17시 50분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 50분 / [정보] 'event' 다시 불러옴
+17시 50분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 50분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 50분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 50분 / [정보] 'SearchCommand' 다시 불러옴
+17시 50분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 아칼리
+17시 53분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 53분 / [정보] 'AdminCommand' 다시 불러옴
+17시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 53분 / [정보] 'event' 다시 불러옴
+17시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 53분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 53분 / [정보] 'SearchCommand' 다시 불러옴
+17시 53분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+17시 55분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 55분 / [정보] 'AdminCommand' 다시 불러옴
+17시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 55분 / [정보] 'event' 다시 불러옴
+17시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 55분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 55분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 55분 / [정보] 'SearchCommand' 다시 불러옴
+17시 55분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+17시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 56분 / [정보] 'AdminCommand' 다시 불러옴
+17시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 56분 / [정보] 'event' 다시 불러옴
+17시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 56분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 56분 / [정보] 'SearchCommand' 다시 불러옴
+17시 56분 / 병신들 <실험 | 하리하루 | 758963978331619331> !챔피언 조이
+17시 57분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+17시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+17시 57분 / [정보] 'AdminCommand' 다시 불러옴
+17시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+17시 57분 / [정보] 'event' 다시 불러옴
+17시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+17시 57분 / [정보] 'NormalCommandBot' 다시 불러옴
+17시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+17시 57분 / [정보] 'SearchCommand' 다시 불러옴
+17시 57분 / 병신들 <실험 | 하리하루 | 758963978331619331> !정글 조이
+17시 58분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 502, in 정글
+    small = soup.find("div", attrs={"class":"fragment-page"}).find_all("img", attrs={"class":"active tip"},limit=3)
+AttributeError: 'NoneType' object has no attribute 'find_all'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'find_all'
+
+
+
+17시 58분 / 병신들 <실험 | 하리하루 | 758963978331619331> !정글 아칼리
+18시 00분 / 병신들 <실험 | 하리하루 | 758963978331619331> !restart
+18시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+18시 00분 / [정보] 'AdminCommand' 다시 불러옴
+18시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+18시 00분 / [정보] 'event' 다시 불러옴
+18시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+18시 00분 / [정보] 'NormalCommandBot' 다시 불러옴
+18시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+18시 00분 / [정보] 'SearchCommand' 다시 불러옴
+18시 00분 / 병신들 <실험 | 하리하루 | 758963978331619331> !정글 아칼리
+18시 01분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 511, in 정글
+    small = soup.find("div", attrs={"class":"fragment-page"}).find_all("img", attrs={"class":"active tip"},limit=3)
+AttributeError: 'NoneType' object has no attribute 'find_all'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'find_all'
+
+
+
+18시 02분 / 병신들 <실험 | 하리하루 | 758963978331619331> !원딜 카타리나
+18시 04분 / 병신들 <실험 | 하리하루 | 758963978331619331> !원딜 조이
+19시 25분 / 병신들 <실험 | 하리하루 | 758963978331619331> !탑 아크샨
+19시 26분 / 병신들 <실험 | 하리하루 | 758963978331619331> !미드 제이스
+21시 14분 / 병신들 <📩채팅창 | 알 수 없음 | 449764097601437702> <:071:883743097123651664>
+21시 14분 / [정보] 알 수 없음이(가) '<:071:883743097123651664>' 메시지를 삭제
+22시 28분 / 병신들 <실험 | 하리하루 | 758963978331619331> !탑 아크샨
+22시 29분 / 병신들 <실험 | 하리하루 | 758963978331619331> !미드 아크샨
