@@ -6,9 +6,9 @@
 
 class Config:
     # 봇의 토큰
-    token = 'ODg1MDMwODQ2MDY5ODk5MjY0.YThHNA.nsKqk1W6AmNgsaTjDdo95n2pDok'
+    token = '..'
     # 디버그 모드가 켜졌을 때 사용할 토큰
-    test_token = 'ODg1MDMwODQ2MDY5ODk5MjY0.YThHNA.nsKqk1W6AmNgsaTjDdo95n2pDok'
+    test_token = '..'
 
     # 디버그 여부
     is_debug = False
