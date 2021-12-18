@@ -1,0 +1,33 @@
+00시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+00시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+00시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\Favorability.py 로드 완료
+00시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+00시 56분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+00시 56분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> #탑 타릭
+00시 56분 / [정보] ======================
+00시 56분 / [정보] < 구동 완료 >
+00시 56분 / [정보] ======================
+00시 57분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> #정글 아칼리
+00시 57분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> #정글 아칼리
+00시 57분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> #미드  타릭
+00시 58분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> #원딜 아칼리
+00시 58분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> #원딜 갱플랭크
+00시 59분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> #서폿 사이온
+00시 59분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> #탑 백스
+01시 00분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> #탑 스카너
+01시 00분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> #탑 아지르
+01시 02분 / 병신들 <📊명령어 | 하리하루 | 758963978331619331> =p https://www.youtube.com/watch?v=sJm2Ms33c8Y&list=PLjVJkd8pB_rI9qhrU1JsBiCJbPPU6aAy7
+01시 02분 / [정보] 하리하루이(가) '=p https://www.youtube.com/watch?v=sJm2Ms33c8Y&list=PLjVJkd8pB_rI9qhrU1JsBiCJbPPU6aAy7' 메시지를 '=p https://www.youtube.com/watch?v=sJm2Ms33c8Y&list=PLjVJkd8pB_rI9qhrU1JsBiCJbPPU6aAy7' 로 수정
+02시 27분 / 병신들 <📊명령어 | 김강냉 | 582041127323041813> =p  https://www.youtube.com/watch?v=lp7GsRKLmJs&list=PLN51iRq9BORaVJSI4IkjTjLrGkir-SC4A
+02시 27분 / [정보] 김강냉이(가) '=p  https://www.youtube.com/watch?v=lp7GsRKLmJs&list=PLN51iRq9BORaVJSI4IkjTjLrGkir-SC4A' 메시지를 '=p  https://www.youtube.com/watch?v=lp7GsRKLmJs&list=PLN51iRq9BORaVJSI4IkjTjLrGkir-SC4A' 로 수정
+02시 27분 / [정보] 김강냉이(가) '=p  https://www.youtube.com/watch?v=lp7GsRKLmJs&list=PLN51iRq9BORaVJSI4IkjTjLrGkir-SC4A' 메시지를 '=p  https://www.youtube.com/watch?v=lp7GsRKLmJs&list=PLN51iRq9BORaVJSI4IkjTjLrGkir-SC4A' 로 수정
+02시 27분 / 병신들 <📊명령어 | 김강냉 | 582041127323041813> =p https://www.youtube.com/watch?v=lp7GsRKLmJs&list=PLN51iRq9BORaVJSI4IkjTjLrGkir-SC4A
+02시 28분 / [정보] 김강냉이(가) '=p https://www.youtube.com/watch?v=lp7GsRKLmJs&list=PLN51iRq9BORaVJSI4IkjTjLrGkir-SC4A' 메시지를 '=p https://www.youtube.com/watch?v=lp7GsRKLmJs&list=PLN51iRq9BORaVJSI4IkjTjLrGkir-SC4A' 로 수정
+02시 28분 / 병신들 <📊명령어 | 김강냉 | 582041127323041813> =p https://www.youtube.com/watch?v=Idk2kzxegBc&list=PLzo3jOYHZo_RzwALuv5JYMc0-DNwdzNQG
+02시 28분 / [정보] 김강냉이(가) '=p https://www.youtube.com/watch?v=Idk2kzxegBc&list=PLzo3jOYHZo_RzwALuv5JYMc0-DNwdzNQG' 메시지를 '=p https://www.youtube.com/watch?v=Idk2kzxegBc&list=PLzo3jOYHZo_RzwALuv5JYMc0-DNwdzNQG' 로 수정
+04시 56분 / [정보] ======================
+04시 56분 / [정보] < 구동 완료 >
+04시 56분 / [정보] ======================
+05시 48분 / [정보] ======================
+05시 48분 / [정보] < 구동 완료 >
+05시 48분 / [정보] ======================

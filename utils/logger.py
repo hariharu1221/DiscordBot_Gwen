@@ -1,12 +1,3 @@
-'''
-    <logger.py>
-    기록을 쉽게 남길 수 있게 해 주는 모듈이에요!
-    print()보다는 logger.info()를 추천드려요!
-    logger.py를 통해서 기록을 남기면 logs 폴더 안에 날짜 별로 기록이 자동으로 정리되니까 편할 거예요!
-    ※ 파이썬 초심자라면 이 파일을 수정하지 않는 것을 추천드려요!
-    - 키뮤 제작(0127 버전)
-'''
-
 from datetime import datetime
 import os
 import traceback
@@ -15,9 +6,6 @@ from config import Config
 
 
 def err(error):
-    '''
-    오류 기록을 남길 때 사용해요!
-    '''
     try:
         raise error
     except Exception:
@@ -27,37 +15,22 @@ def err(error):
 
 
 def warn(msg: str):
-    '''
-    경고 기록을 남길 때 사용해요!
-    '''
     log(f'[경고] {msg}')
 
 
 def info(msg: str):
-    '''
-    일반적인 기록을 남길 때 사용해요!
-    '''
     log(f'[정보] {msg}')
 
 
 def debug(msg: str):
-    '''
-    디버그 모드를 켰을 때만 기록해 줘요!
-    '''
     if Config.is_debug:
         log(f'[디버그] {msg}')
 
 
 def msg(message):
-    '''
-    디스코드 메시지를 깔끔하게 정리해 기록해 줘요!
-    '''
     if message.content == '':
         return
-
     author = message.author
-
-    '''message를 넣으면 로그를 씀'''
     if 'DM' in str(type(message.channel)):
         log_msg = f'DM <{author.name}> {message.content}'
     else:

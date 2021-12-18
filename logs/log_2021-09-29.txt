@@ -1,0 +1,163 @@
+08시 41분 / [정보] ======================
+08시 41분 / [정보] < 구동 완료 >
+08시 41분 / [정보] ======================
+08시 50분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> ㄱ
+08시 50분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 이 새끼 뭔데
+09시 39분 / [정보] ======================
+09시 39분 / [정보] < 구동 완료 >
+09시 39분 / [정보] ======================
+11시 55분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> https://youtu.be/1Z6CHioIn3s
+11시 55분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 괜찮네요
+11시 55분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> 히히
+12시 42분 / 병신들 <📩채팅창 | 장선효 | 534534395118485506> 미싱노가 나오네
+12시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\Favorability.py 로드 완료
+12시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 49분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 49분 / [정보] ======================
+12시 49분 / [정보] < 구동 완료 >
+12시 49분 / [정보] ======================
+12시 55분 / 봇서버 <일반 | 하리하루 | 758963978331619331> #안녕
+12시 56분 / 봇서버 <일반 | 하리하루 | 758963978331619331> #전적 archetto
+12시 56분 / 봇서버 <일반 | 하리하루 | 758963978331619331> #전적 시리하루
+12시 56분 / 봇서버 <일반 | 하리하루 | 758963978331619331> #탑 아칼리
+12시 56분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 278, in 탑
+    chamPro = soup.find("div", attrs={"class":"champion-stats-header-info__image"}).find("img").get("src")
+AttributeError: 'NoneType' object has no attribute 'find'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 22, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'find'
+
+
+
+12시 57분 / 봇서버 <일반 | 하리하루 | 758963978331619331> #restart
+12시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+12시 57분 / [정보] 'AdminCommand' reload complete
+12시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+12시 57분 / [정보] 'event' reload complete
+12시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\Favorability.py 로드 완료
+12시 57분 / [정보] 'Favorability' reload complete
+12시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+12시 57분 / [정보] 'NormalCommandBot' reload complete
+12시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+12시 57분 / [정보] 'SearchCommand' reload complete
+12시 57분 / 봇서버 <일반 | 하리하루 | 758963978331619331> #전적 시리하루
+13시 03분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 03분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 03분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\Favorability.py 로드 완료
+13시 03분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 03분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 03분 / 봇서버 <ㅎㅎ | 하리하루 | 758963978331619331> #가위바위보
+13시 03분 / [정보] ======================
+13시 03분 / [정보] < 구동 완료 >
+13시 03분 / [정보] ======================
+13시 15분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 15분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 15분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\Favorability.py 로드 완료
+13시 15분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 15분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 15분 / [정보] ======================
+13시 15분 / [정보] < 구동 완료 >
+13시 15분 / [정보] ======================
+13시 15분 / 봇서버 <ㅎㅎ | 하리하루 | 758963978331619331> #전적 시리하루
+13시 20분 / 봇서버 <ㅎㅎ | 하리하루 | 758963978331619331> #챔피언 아칼리
+13시 20분 / [오류] Traceback (most recent call last):
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py", line 124, in 챔피언
+    chamPro = soup.find("div", attrs={"class":"champion-stats-header-info__image"}).find("img").get("src")
+AttributeError: 'NoneType' object has no attribute 'find'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\utils\logger.py", line 13, in err
+    raise error
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\82105\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'find'
+
+
+
+13시 52분 / 봇서버 <ㅎㅎ | 하리하루 | 758963978331619331> !전적 하리하루
+13시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\Favorability.py 로드 완료
+13시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 53분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 53분 / [정보] ======================
+13시 53분 / [정보] < 구동 완료 >
+13시 53분 / [정보] ======================
+13시 53분 / 봇서버 <ㅎㅎ | 하리하루 | 758963978331619331> #전적 하리하루
+13시 53분 / 봇서버 <ㅎㅎ | 하리하루 | 758963978331619331> #전적 시리하루
+13시 53분 / 봇서버 <ㅎㅎ | 하리하루 | 758963978331619331> #전적 archetto
+13시 57분 / 봇서버 <ㅎㅎ | 하리하루 | 758963978331619331> #restart
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 57분 / [정보] 'AdminCommand' reload complete
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 57분 / [정보] 'event' reload complete
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\Favorability.py 로드 완료
+13시 57분 / [정보] 'Favorability' reload complete
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 57분 / [정보] 'NormalCommandBot' reload complete
+13시 57분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 57분 / [정보] 'SearchCommand' reload complete
+13시 57분 / 봇서버 <ㅎㅎ | 하리하루 | 758963978331619331> #탑 조이
+13시 58분 / 봇서버 <ㅎㅎ | 하리하루 | 758963978331619331> #restart
+13시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+13시 58분 / [정보] 'AdminCommand' reload complete
+13시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+13시 58분 / [정보] 'event' reload complete
+13시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\Favorability.py 로드 완료
+13시 58분 / [정보] 'Favorability' reload complete
+13시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+13시 58분 / [정보] 'NormalCommandBot' reload complete
+13시 58분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+13시 58분 / [정보] 'SearchCommand' reload complete
+13시 58분 / 봇서버 <ㅎㅎ | 하리하루 | 758963978331619331> #미드 조이
+14시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+14시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+14시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\Favorability.py 로드 완료
+14시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+14시 00분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+14시 00분 / [정보] ======================
+14시 00분 / [정보] < 구동 완료 >
+14시 00분 / [정보] ======================
+14시 00분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> !미드 백스
+14시 00분 / 병신들 <📩채팅창 | 하리하루 | 758963978331619331> #미드 백스
+15시 30분 / [정보] ======================
+15시 30분 / [정보] < 구동 완료 >
+15시 30분 / [정보] ======================
+16시 06분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> anjrh
+16시 08분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> ?
+16시 08분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> ???
+16시 08분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> 아하!
+16시 08분 / 병신들 <📩채팅창 | 김강냉 | 582041127323041813> 아니근데  저거진짜 왜넣은거냐 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+19시 18분 / [정보] ======================
+19시 18분 / [정보] < 구동 완료 >
+19시 18분 / [정보] ======================
+19시 36분 / 병신들 <📩채팅창 | T̴͖̃r̵̍͘1̸͑͠á̸́ỉ̶̍ň̴̒a̴̍͒ | 496627750858260480> 넣고 싶데잖아
+23시 24분 / 병신들 <히히마크 | 김강냉 | 582041127323041813> 이런식으로
+23시 24분 / 병신들 <히히마크 | 김강냉 | 582041127323041813> 써두셈
+23시 24분 / 병신들 <히히마크 | 김강냉 | 582041127323041813> 이름 특성 도구 스킬 (다이맥스유무) 순으로 ㅇ ㅇ
+23시 25분 / 병신들 <히히마크 | 김강냉 | 582041127323041813> 이겼을떄 이걸지노 ㅋ
+23시 25분 / 병신들 <히히마크 | 김강냉 | 582041127323041813> 졋을때
+23시 25분 / 병신들 <히히마크 | 김강냉 | 582041127323041813> 이걸지노 ㅋ

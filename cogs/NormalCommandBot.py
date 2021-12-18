@@ -123,8 +123,11 @@ class normalCommand(commands.Cog):
         if content is None:
             return await ctx.send('말했어!')
 
-        await ctx.message.delete()  # 유저가 쓴 메시지는 지웁니다.
-        await ctx.send(f'{ctx.author.name}님이 전해달래! : ' + content)
+        if ctx.author.dm_channel is None:
+            channel = await ctx.author.create_dm()
+            await channel.send("DM 생성")
+        #await ctx.author.dm_channel.send("DM")
+        await ctx.author.dm_channel.send(f'{ctx.author.name}님이 전해달래! : ' + content)
 
     # 핑
     @commands.command()

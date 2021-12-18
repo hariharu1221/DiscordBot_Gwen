@@ -3,6 +3,7 @@ from typing import AsyncIterable
 from discord.ext import commands
 import discord
 import os
+from requests.api import head
 
 from requests.models import to_native_string
 from utils import logger
@@ -27,9 +28,10 @@ class searchCommand(commands.Cog):
     async def 전적(self, ctx, arg1=None):
         if arg1 is None:
             return await ctx.send('닉네임이 적혀있지 않아..')
+        headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36'}
         baseurl = "https://kr.op.gg/summoner/userName="
         url = baseurl + arg1
-        res = requests.get(url, verify=False).text
+        res = requests.get(url, verify=False, headers=headers).text
         soup = BeautifulSoup(res, "html.parser")
 
         # 래더 랭킹 가져오기
@@ -82,7 +84,8 @@ class searchCommand(commands.Cog):
         except: return await ctx.send('존재하지 않는 챔피언 이름이야!')
 
         url = "https://www.op.gg/champion/" + champ
-        res = requests.get(url).text
+        headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36'}
+        res = requests.get(url, headers=headers).text
         soup = BeautifulSoup(res, "html.parser")
 
         #챔피언 승률, 픽률, 티어
@@ -236,18 +239,13 @@ class searchCommand(commands.Cog):
         except: return await ctx.send('존재하지 않는 챔피언 이름이야!')
 
         url = "https://www.op.gg/champion/" + champ + "/statistics/top/build"
-        res = requests.get(url).text
+        headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36'}
+        res = requests.get(url, headers=headers).text
         soup = BeautifulSoup(res, "html.parser")
 
         #챔피언 승률, 픽률, 티어
-        try:
-            tier = soup.find("div", attrs={"class":"champion-stats-header-info__tier"}).get_text().strip()
-        except:
-            url = "https://www.op.gg/champion/" + champ + "/statistics/jungle/build"
-            res = requests.get(url).text
-            soup = BeautifulSoup(res, "html.parser")
-            tier = ""
-            await ctx.send('`표본이 부족한 챔피언이야..`')
+        tier = soup.find("div", attrs={"class":"champion-stats-header-info__tier"}).get_text().strip()
+        
         if tier == "":
             an = "R.I.P"
             profile = Image.open('imgs/0.png')
@@ -390,18 +388,13 @@ class searchCommand(commands.Cog):
         except: return await ctx.send('존재하지 않는 챔피언 이름이야!')
 
         url = "https://www.op.gg/champion/" + champ + "/statistics/jungle/build"
-        res = requests.get(url).text
+        headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36'}
+        res = requests.get(url, headers=headers).text
         soup = BeautifulSoup(res, "html.parser")
 
         #챔피언 승률, 픽률, 티어
-        try:
-            tier = soup.find("div", attrs={"class":"champion-stats-header-info__tier"}).get_text().strip()
-        except:
-            url = "https://www.op.gg/champion/" + champ + "/statistics/jungle/build"
-            res = requests.get(url).text
-            soup = BeautifulSoup(res, "html.parser")
-            tier = ""
-            await ctx.send('`표본이 부족한 챔피언이야..`')
+        tier = soup.find("div", attrs={"class":"champion-stats-header-info__tier"}).get_text().strip()
+
         if tier == "":
             an = "R.I.P"
             profile = Image.open('imgs/0.png')
@@ -544,18 +537,12 @@ class searchCommand(commands.Cog):
         except: return await ctx.send('존재하지 않는 챔피언 이름이야!')
 
         url = "https://www.op.gg/champion/" + champ + "/statistics/mid/build"
-        res = requests.get(url).text
+        headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36'}
+        res = requests.get(url, headers=headers).text
         soup = BeautifulSoup(res, "html.parser")
 
         #챔피언 승률, 픽률, 티어
-        try:
-            tier = soup.find("div", attrs={"class":"champion-stats-header-info__tier"}).get_text().strip()
-        except:
-            url = "https://www.op.gg/champion/" + champ + "/statistics/jungle/build"
-            res = requests.get(url).text
-            soup = BeautifulSoup(res, "html.parser")
-            tier = ""
-            await ctx.send('`표본이 부족한 챔피언이야..`')
+        tier = soup.find("div", attrs={"class":"champion-stats-header-info__tier"}).get_text().strip()
         if tier == "":
             an = "R.I.P"
             profile = Image.open('imgs/0.png')
@@ -698,18 +685,12 @@ class searchCommand(commands.Cog):
         except: return await ctx.send('존재하지 않는 챔피언 이름이야!')
 
         url = "https://www.op.gg/champion/" + champ + "/statistics/adc/build"
-        res = requests.get(url).text
+        headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36'}
+        res = requests.get(url, headers=headers).text
         soup = BeautifulSoup(res, "html.parser")
 
         #챔피언 승률, 픽률, 티어
-        try:
-            tier = soup.find("div", attrs={"class":"champion-stats-header-info__tier"}).get_text().strip()
-        except:
-            url = "https://www.op.gg/champion/" + champ + "/statistics/jungle/build"
-            res = requests.get(url).text
-            soup = BeautifulSoup(res, "html.parser")
-            tier = ""
-            await ctx.send('`표본이 부족한 챔피언이야..`')
+        tier = soup.find("div", attrs={"class":"champion-stats-header-info__tier"}).get_text().strip()
         if tier == "":
             an = "R.I.P"
             profile = Image.open('imgs/0.png')
@@ -852,18 +833,12 @@ class searchCommand(commands.Cog):
         except: return await ctx.send('존재하지 않는 챔피언 이름이야!')
 
         url = "https://www.op.gg/champion/" + champ + "/statistics/support/build"
-        res = requests.get(url).text
+        headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36'}
+        res = requests.get(url, headers=headers).text
         soup = BeautifulSoup(res, "html.parser")
 
         #챔피언 승률, 픽률, 티어
-        try:
-            tier = soup.find("div", attrs={"class":"champion-stats-header-info__tier"}).get_text().strip()
-        except:
-            url = "https://www.op.gg/champion/" + champ + "/statistics/jungle/build"
-            res = requests.get(url).text
-            soup = BeautifulSoup(res, "html.parser")
-            tier = ""
-            await ctx.send('`표본이 부족한 챔피언이야..`')
+        tier = soup.find("div", attrs={"class":"champion-stats-header-info__tier"}).get_text().strip()
         if tier == "":
             an = "R.I.P"
             profile = Image.open('imgs/0.png')

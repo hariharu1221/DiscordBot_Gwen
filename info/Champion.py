@@ -44,6 +44,7 @@ champion = {
     "바드":"bard",
     "바루스":"varus",
     "바이":"vi",
+    "백스":"vex",
     "베이가":"veigar",
     "베인":"vayne",
     "벨코즈":"velkoz",
