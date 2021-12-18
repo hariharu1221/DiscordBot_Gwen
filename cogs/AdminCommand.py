@@ -1,4 +1,3 @@
-# 필수 임포트
 import datetime
 import discord
 import os

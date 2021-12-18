@@ -33,3 +33,14 @@
 10시 39분 / 봇서버 <일반 | 하리하루 | 758963978331619331> 말해줘 안녕
 10시 39분 / 봇서버 <일반 | 하리하루 | 758963978331619331> #말해줘 안녕
 10시 39분 / 봇서버 <일반 | 하리하루 | 758963978331619331> #말해줘
+10시 46분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\AdminCommand.py 로드 완료
+10시 46분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\event.py 로드 완료
+10시 46분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\Favorability.py 로드 완료
+10시 46분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\NormalCommandBot.py 로드 완료
+10시 46분 / [정보] c:\Users\82105\Desktop\Project\Discord\DiscordBot_Gwen\cogs\SearchCommand.py 로드 완료
+10시 46분 / [정보] ======================
+10시 46분 / [정보] < 구동 완료 >
+10시 46분 / [정보] ======================
+10시 46분 / 봇서버 <일반 | 하리하루 | 758963978331619331> #전적 archetto
+10시 46분 / 봇서버 <일반 | 하리하루 | 758963978331619331> #안녕
+10시 46분 / 봇서버 <일반 | 하리하루 | 758963978331619331> #잡담

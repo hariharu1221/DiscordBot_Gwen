@@ -1,10 +1,8 @@
-# 필수 임포트
 from discord.ext import commands
 import discord
 import os
 from utils import logger
 
-# 부가 임포트
 from utils import util_box
 import random
 random.random()
@@ -117,7 +115,6 @@ class normalCommand(commands.Cog):
 
         await ctx.send(f'`{arg1}`에 `{arg2}`를 발사! 히히')
 
-    # 따라말하는
     @commands.command()
     async def 말해줘(self, ctx, *, content=None):
         if content is None:
@@ -126,7 +123,6 @@ class normalCommand(commands.Cog):
         if ctx.author.dm_channel is None:
             channel = await ctx.author.create_dm()
             await channel.send("DM 생성")
-        #await ctx.author.dm_channel.send("DM")
         await ctx.author.dm_channel.send(f'{ctx.author.name}님이 전해달래! : ' + content)
 
     # 핑
